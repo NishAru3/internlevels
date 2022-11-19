@@ -1,473 +1,525 @@
 ## The List
-| Index | Name | Salary |
-| --- | --- | --- |
-| 1 | Akuna Capital | $225K |
-| 2 | Amazon Robotics | NULL |
-| 3 | Apple | $278K |
-| 4 | AQR | NULL |
-| 5 | BD | $126K |
-| 6 | Bridgewater Associates | $250K |
-| 7 | Bevootech | NULL |
-| 8 | Smmile Digital | NULL |
-| 9 | Bristol Myers Squibb | LOCK |
-| 10 | Capital One | $140K |
-| 11 | Capstone Investment Advisors | NULL |
-| 12 | Citi | $113K |
-| 13 | Credit Suisse | $196K |
-| 14 | D. E. Shaw &amp; Co. | NULL |
-| 15 | Five Rings | $275K |
-| 16 | Futureforce Tech Summit | NULL |
-| 17 | Goldman Sachs | $155K |
-| 18 | Grindr | $170K |
-| 19 | Iomaxis | NULL |
-| 20 | KPMG | $125K |
-| 21 | Morgan Stanley | $150K |
-| 22 | NRO | NULL |
-| 23 | Optiver | $253K |
-| 24 | Procter &amp; Gamble | NULL |
-| 25 | Putnam Investments | NULL |
-| 26 | SIG | NULL |
-| 27 | Volvo | NULL |
-| 28 | Voloridge Investment Management | LOCK |
-| 29 | GE Appliances | NULL |
-| 30 | KeyBank | $140K |
-| 31 | John Deere | $135K |
-| 32 | Microsoft Neurodiversity Hiring Program | NULL |
-| 33 | Cisco (Meraki) | NULL |
-| 34 | Amazon | $207K |
-| 35 | Bessemer Fellowship Program | NULL |
-| 36 | BlackRock | $150K |
-| 37 | Two Sigma | $290K |
-| 38 | IMC | $275K |
-| 39 | Palantir | $220K |
-| 40 | Tower Research Capital | $65K |
-| 41 | Mastercard | $136K |
-| 42 | Citadel | $400K |
-| 43 | Neocis | NULL |
-| 44 | Hewlett Packard Enterprise | NULL |
-| 45 | Ocient | $130K |
-| 46 | Blackstone | $162K |
-| 47 | Northrop Grumman | $98K |
-| 48 | Oracle | $206K |
-| 49 | Lockheed Martin | $103K |
-| 50 | Freddie Mac | $92K |
-| 51 | Jane Street | $425K |
-| 52 | Asana | $246K |
-| 53 | Seven Eight Capital | $151K |
-| 54 | Databento | NULL |
-| 55 | ServiceNow | $201K |
-| 56 | Virtu Financial | $220K |
-| 57 | Prudential | NULL |
-| 58 | PDT Partners | $600K |
-| 59 | Verkada | $205K |
-| 60 | Code 2040 | NULL |
-| 61 | Vanta | $281K |
-| 62 | L3Harris Technologies | NULL |
-| 63 | Pixar Animation Studios | $147K |
-| 64 | PNC | $88K |
-| 65 | PWC | $95K |
-| 66 | Arrowstreet Capital | $400K |
-| 67 | Valkyrie | NULL |
-| 68 | Sensata | LOCK |
-| 69 | Peraton | $105K |
-| 70 | SPS | NULL |
-| 71 | General Motors | $95K |
-| 72 | JP Morgan | NULL |
-| 73 | Roblox | $331K |
-| 74 | Microsoft | $191K |
-| 75 | Intuit | $220K |
-| 76 | Uber | $326K |
-| 77 | Uber | $326K |
-| 78 | Hudson River Trading | $600K |
-| 79 | Sentry.io | NULL |
-| 80 | Nordstrom | $147K |
-| 81 | Bluestaq | LOCK |
-| 82 | Johnson &amp; Johnson | NULL |
-| 83 | DRW | $284K |
-| 84 | Salesforce | $250K |
-| 85 | Instabase | $213K |
-| 86 | Cisco | $187K |
-| 87 | L3Harris Technologies | NULL |
-| 88 | Vanguard | $93K |
-| 89 | Nvidia | $240K |
-| 90 | The Vendry | NULL |
-| 91 | YugaByte | $175K |
-| 92 | KLA | $161K |
-| 93 | Qualtrics | $219K |
-| 94 | Neighbor | LOCK |
-| 95 | National Instrument | NULL |
-| 96 | Duolingo | $185K |
-| 97 | Audible | $185K |
-| 98 | Chick-fil-A | NULL |
-| 99 | Aquatic Capital Management | NULL |
-| 100 | Ericsson | $72K |
-| 101 | Twitch | $228K |
-| 102 | Accenture | $106K |
-| 103 | Quantcast | $176K |
-| 104 | Belvedere Trading | $165K |
-| 105 | Samsung | $193K |
-| 106 | Jump Trading | $350K |
-| 107 | Databricks | $359K |
-| 108 | American Express | $110K |
-| 109 | Klaviyo | $178K |
-| 110 | Starbucks | $167K |
-| 111 | IBM | $135K |
-| 112 | Fidelity | NULL |
-| 113 | Cohen &amp; Co | NULL |
-| 114 | Figma | $285K |
-| 115 | Flatiron Health | $197K |
-| 116 | Redfin | $179K |
-| 117 | F5 | NULL |
-| 118 | DriveTime | LOCK |
-| 119 | SeatGeek | $175K |
-| 120 | GoodYear | $115K |
-| 121 | Thomson Reuters | $111K |
-| 122 | Proofpoint | $200K |
-| 123 | ServiceNow | $201K |
-| 124 | Convoy | $220K |
-| 125 | Lime | $180K |
-| 126 | Daikin | NULL |
-| 127 | Lyft | $360K |
-| 128 | Optimal Dynamics | NULL |
-| 129 | Citrix | $152K |
-| 130 | Target | $108K |
-| 131 | Nasdaq | $75K |
-| 132 | Viasat | $127K |
-| 133 | Paycom | $105K |
-| 134 | Qvest | NULL |
-| 135 | Trihydro Corporation | NULL |
-| 136 | Datadog | $217K |
-| 137 | Paypal | $185K |
-| 138 | NetApp | $172K |
-| 139 | Benchling | $195K |
-| 140 | Scale AI | $255K |
-| 141 | PathAI | $140K |
-| 142 | Garda Capital Partners | LOCK |
-| 143 | Epic Games | $208K |
-| 144 | Mathworks | $146K |
-| 145 | GoDaddy | $170K |
-| 146 | Ridgeline | $120K |
-| 147 | Exact Sciences | $113K |
-| 148 | Keysight Technologies | NULL |
-| 149 | Rippling | $330K |
-| 150 | Insitro | LOCK |
-| 151 | State Farm | $106K |
-| 152 | BNY Mellon | $110K |
-| 153 | Applied Intuition | $203K |
-| 154 | Workiva | $135K |
-| 155 | Gallup | $104K |
-| 156 | Intel | $190K |
-| 157 | Dell | NULL |
-| 158 | Neuralink | LOCK |
-| 159 | Rivian | $204K |
-| 160 | Zillow | $245K |
-| 161 | Taboola | $165K |
-| 162 | Arrowstreet Capital | $400K |
-| 163 | Deloitte | $107K |
-| 164 | Linkedin | $283K |
-| 165 | Stripe | $416K |
-| 166 | Discover Financial Services | $130K |
-| 167 | Hubspot | $180K |
-| 168 | IXL | NULL |
-| 169 | Affirm | $290K |
-| 170 | Visa | $140K |
-| 171 | Chewy | $188K |
-| 172 | Riot Games | $211K |
-| 173 | AIG | $130K |
-| 174 | CGI | $84K |
-| 175 | TikTok | NULL |
-| 176 | Warner Bros Discovery | NULL |
-| 177 | ByteDance | $299K |
-| 178 | TD Ameritrade | $128K |
-| 179 | Paramount | NULL |
-| 180 | Nuro | $260K |
-| 181 | Relativity Space | $165K |
-| 182 | Dropbox | $307K |
-| 183 | MongoDB | $235K |
-| 184 | Urban Outfitters | NULL |
-| 185 | The Washington Post | $120K |
-| 186 | Pitchbook | NULL |
-| 187 | Lucid Software | NULL |
-| 188 | Atlassian | $210K |
-| 189 | SoundHound | $127K |
-| 190 | Slack | $307K |
-| 191 | SpaceX | $180K |
-| 192 | Samsara | $243K |
-| 193 | Brex | $345K |
-| 194 | CrowdStrike | $220K |
-| 195 | Garmin | $98K |
-| 196 | Plaid | $268K |
-| 197 | Zoom | $207K |
-| 198 | Pinterest | $280K |
-| 199 | Nike | $160K |
-| 200 | T.Row Price | NULL |
-| 201 | Tableau | NULL |
-| 202 | The Home Depot | $130K |
-| 203 | Adobe | $239K |
-| 204 | Merge | LOCK |
-| 205 | NASA Jet Propulsion Laboratory | NULL |
-| 206 | Lowe's | $150K |
-| 207 | Collins Aerospace | NULL |
-| 208 | AeroVironment | LOCK |
-| 209 | Allegion | LOCK |
-| 210 | Arm | $116K |
-| 211 | ABL | NULL |
-| 212 | Nomura | $161K |
-| 213 | Workday | $218K |
-| 214 | Bloomberg | $197K |
-| 215 | Okta | $276K |
-| 216 | Texas Instruments | $114K |
-| 217 | Splunk | $248K |
-| 218 | Cloudflare | $179K |
-| 219 | Sony Electronics | NULL |
-| 220 | 2K | NULL |
-| 221 | Lacework | $170K |
-| 222 | Axon | $200K |
-| 223 | Emerson Automation Solutions | NULL |
-| 224 | Shure Inc. | NULL |
-| 225 | Code42 | LOCK |
-| 226 | Avanade | $94K |
-| 227 | Motorola Solutions | NULL |
-| 228 | Ansys | $125K |
-| 229 | Silicon Labs | $125K |
-| 230 | ASML | $150K |
-| 231 | Zebra Technologies | $114K |
-| 232 | SingleStore | $150K |
-| 233 | Domeyard LP | NULL |
-| 234 | Yext | $169K |
-| 235 | Compass Minerals | NULL |
-| 236 | Anduril | NULL |
-| 237 | Wolverine | NULL |
-| 238 | Pure Storage | $300K |
-| 239 | DeepMind | NULL |
-| 240 | Symbiotic | NULL |
-| 241 | WillowTree | $108K |
-| 242 | Grainger | $141K |
-| 243 | Confluent | $309K |
-| 244 | TradeWeb | $130K |
-| 245 | Cruise | $387K |
-| 246 | Amadeus | $55K |
-| 247 | Gem.com | NULL |
-| 248 | Gap | $140K |
-| 249 | DeepGram | LOCK |
-| 250 | Matroid | LOCK |
-| 251 | Proofpoint | $200K |
-| 252 | Grammarly | $159K |
-| 253 | Stryker | $135K |
-| 254 | Dimensional Careers | NULL |
-| 255 | Labcorp | $145K |
-| 256 | Sierra Nevada Corporation | NULL |
-| 257 | Sysco | LOCK |
-| 258 | DoorDash | $323K |
-| 259 | United | NULL |
-| 260 | Cornerstone | NULL |
-| 261 | Merck | $100K |
-| 262 | Jamf | $103K |
-| 263 | Dish | NULL |
-| 264 | Synopsys | $200K |
-| 265 | Booz Allen | NULL |
-| 266 | McDonald's | $119K |
-| 267 | BCG | $136K |
-| 268 | C3.ai | $168K |
-| 269 | Roku | $310K |
-| 270 | Google | $264K |
-| 271 | Bank of America | $122K |
-| 272 | Pearson | $150K |
-| 273 | Toyota Connected | NULL |
-| 274 | Honeywell | $97K |
-| 275 | Parsons Corporation | NULL |
-| 276 | Fifth Third Bank | $155K |
-| 277 | KnowBe4 | $185K |
-| 278 | Flexport | $234K |
-| 279 | Schonfeld | $200K |
-| 280 | Spreetail | $148K |
-| 281 | Tanium | $284K |
-| 282 | UiPath | $250K |
-| 283 | Qualcomm | $175K |
-| 284 | Guidewire | NULL |
-| 285 | 84.51° | NULL |
-| 286 | Akamai | $194K |
-| 287 | Amplitude | $335K |
-| 288 | Appian | $150K |
-| 289 | Belden | LOCK |
-| 290 | DraftKings | $156K |
-| 291 | Ginkgo Bioworks | $130K |
-| 292 | Huntington Ingalls Industries | $85K |
-| 293 | Nutanix | $215K |
-| 294 | Oshkosh Corporation | NULL |
-| 295 | Paylocity | $160K |
-| 296 | Snowflake | $357K |
-| 297 | Trimble | $102K |
-| 298 | Unity | LOCK |
-| 299 | Zoox | $212K |
-| 300 | Autodesk | $197K |
-| 301 | IDEMIA | $80K |
-| 302 | TripActions | $114K |
-| 303 | CyberArk | $155K |
-| 304 | Nextdoor | $200K |
-| 305 | Reliable Robotics | NULL |
-| 306 | Motive | NULL |
-| 307 | Federal Reserve Board | $100K |
-| 308 | Ancestry | $184K |
-| 309 | Crusoe | LOCK |
-| 310 | Farm Credit Services of America | NULL |
-| 311 | Raytheon | $97K |
-| 312 | Lumen | $80K |
-| 313 | Remitly | $285K |
-| 314 | Textron | $68K |
-| 315 | Live Oak Bank | NULL |
-| 316 | Meta | NULL |
-| 317 | Ramp | $380K |
-| 318 | Whatnot | LOCK |
-| 319 | Pattern | LOCK |
-| 320 | Disney | $199K |
-| 321 | Gulfstream | NULL |
-| 322 | Advanced Micro Devices(AMD) | NULL |
-| 323 | Raven Industries | $107K |
-| 324 | Vail Systems | LOCK |
-| 325 | Aptiv | $106K |
-| 326 | Airbnb | $427K |
-| 327 | Jacobs | $105K |
-| 328 | Netflix | $525K |
-| 329 | Alteryx | $182K |
-| 330 | TuSimple | $186K |
-| 331 | Blizzard | NULL |
-| 332 | Awardco | LOCK |
-| 333 | ZipRecruiter | $194K |
-| 334 | Squarespace | $204K |
-| 335 | CarMax | $131K |
-| 336 | McKesson | $136K |
-| 337 | EY | NULL |
-| 338 | Argo AI | $300K |
-| 339 | Walmart | $145K |
-| 340 | Skydio | $200K |
-| 341 | Cadence | NULL |
-| 342 | Activision | $136K |
-| 343 | Arista | NULL |
-| 344 | Expedia Group | NULL |
-| 345 | Clever | $161K |
-| 346 | State Street | $140K |
-| 347 | Restaurant Brands International | $138K |
-| 348 | Electronic Arts (EA) | NULL |
-| 349 | Northwestern Mutual | $108K |
-| 350 | r2c | LOCK |
-| 351 | Excelitas | NULL |
-| 352 | Teradata | $142K |
-| 353 | Climate | NULL |
-| 354 | Marvell | $254K |
-| 355 | Anthology Inc | NULL |
-| 356 | klue | LOCK |
-| 357 | LINK | NULL |
-| 358 | Hashicorp | $200K |
-| 359 | CSG | $100K |
-| 360 | Achieve | NULL |
-| 361 | Lennox International | LOCK |
-| 362 | Tackle.io | LOCK |
-| 363 | AT&amp;T | NULL |
-| 364 | Khan Academy | $143K |
-| 365 | SoFi | $234K |
-| 366 | Delta | NULL |
-| 367 | Mailchimp | $181K |
-| 368 | Vectra | NULL |
-| 369 | LaunchDarkly | $190K |
-| 370 | Invoca | LOCK |
-| 371 | ebay | $210K |
-| 372 | Oscar Health | $244K |
-| 373 | Wisk | $150K |
-| 374 | Nuance | NULL |
-| 375 | Liberty Mutual | $125K |
-| 376 | Vizient | LOCK |
-| 377 | DISCO | $188K |
-| 378 | Snackpass | NULL |
-| 379 | Tesla | $185K |
-| 380 | Spectrum | $137K |
-| 381 | Coca-Cola | NULL |
-| 382 | OpenText | $108K |
-| 383 | Omnicell | $133K |
-| 384 | Patreon | $290K |
-| 385 | Grafana Labs | NULL |
-| 386 | Credit Karma | $244K |
-| 387 | Waymo | $344K |
-| 388 | Robinhood | $315K |
-| 389 | Lattice | $207K |
-| 390 | Bain &amp; Company | NULL |
-| 391 | Addepar | $218K |
-| 392 | Ambi Robotics | NULL |
-| 393 | Tandem Diabetes Care | $148K |
-| 394 | Aurora | $330K |
-| 395 | Cargill | $50K |
-| 396 | Ibotta | $135K |
-| 397 | Norfolk Southern Corp. | NULL |
-| 398 | Johnson Controls | $125K |
-| 399 | Lenovo | $140K |
-| 400 | Zendesk | $188K |
-| 401 | Intapp | LOCK |
-| 402 | Entergy | NULL |
-| 403 | Prometric | NULL |
-| 404 | Wayfair | $213K |
-| 405 | Moderna | LOCK |
-| 406 | Nintendo | $122K |
-| 407 | Veritas | NULL |
-| 408 | BlueHalo | $99K |
-| 409 | Starburst | LOCK |
-| 410 | Elevance Health | NULL |
-| 411 | Certik | $151K |
-| 412 | Comcast | $143K |
-| 413 | Equinix | $184K |
-| 414 | Nordson | NULL |
-| 415 | Blue Origin | $152K |
-| 416 | Open Systems Technologies | NULL |
-| 417 | HP | NULL |
-| 418 | Gemini | $198K |
-| 419 | General Dynamics Mission Systems | $100K |
-| 420 | OneWeb | NULL |
-| 421 | X - The Moonshot Factory | NULL |
-| 422 | Resideo | $125K |
-| 423 | Cigna | $127K |
-| 424 | Brilliant | LOCK |
-| 425 | Seagate | $117K |
-| 426 | Verizon | $130K |
-| 427 | Bose | $138K |
-| 428 | Alcon | LOCK |
-| 429 | Aptiv | $106K |
-| 430 | 23andMe | $236K |
-| 431 | NBA | NULL |
-| 432 | SailPoint | $133K |
-| 433 | Brain Technologies | NULL |
-| 434 | Under Armour | LOCK |
-| 435 | Chess.com | NULL |
-| 436 | Coda | $210K |
-| 437 | Xwing | NULL |
-| 438 | Sigma Computing | $230K |
-| 439 | Bandwidth | $118K |
-| 440 | UKG | $130K |
-| 441 | MediaTek | $90K |
-| 442 | Citizens | $138K |
-| 443 | Philips | $143K |
-| 444 | Monad Labs | NULL |
-| 445 | Red Hat | $135K |
-| 446 | Black &amp; Veatch | NULL |
-| 447 | Domo | $161K |
-| 448 | Lexmark | NULL |
-| 449 | Levi, Ray &amp; Shoup | NULL |
-| 450 | BreezeML | NULL |
-| 451 | Tu Simple | NULL |
-| 452 | Schoolhouse | NULL |
-| 453 | Yahoo | $202K |
-| 454 | Dayton Freight Lines, Inc | NULL |
-| 455 | Gusto | $210K |
-| 456 | Roche | $200K |
-| 457 | Ampere Computing | $250K |
-| 458 | Leidos | $95K |
-| 459 | REI | $143K |
-| 460 | NimbleRx | LOCK |
-| 461 | WW | NULL |
-| 462 | Simplify | NULL |
-| 463 | PlayStation | $184K |
-| 464 | Reddit | $283K |
-| 465 | Johns Hopkins APL | NULL |
-| 466 | Nelnet | $100K |
-| 467 | Bubble | LOCK |
-| 468 | Badger Meter | $85K |
-| 469 | Etsy | $226K |
-| 470 | McKinsey &amp; Company | NULL |
+| Index | Name | Salary | Notes |
+| --- | --- | --- | --- |
+| 1 | <a href="https://akunacapital.com/careers?&amp;experience=intern&amp;search_term=#careers" rel="nofollow">Akuna Capital</a> | $225K | Quant Trading, SWE         (sponsorship available) |
+| 2 | <a href="https://www.amazon.jobs/en/jobs/1999770/amazon-robotics-software-development-engineer-sde-intern-summer-2023" rel="nofollow">Amazon Robotics</a> | NULL | Software Development Engineer |
+| 3 | <a href="https://jobs.apple.com/en-us/details/200389054/software-engineering-internship?team=SDNT" rel="nofollow">Apple</a> | $290K | SWE, <a href="https://jobs.apple.com/en-us/details/200389042/hardware-technology-internship?team=STDNT" rel="nofollow">Hardware</a> |
+| 4 | AQR | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Business Development |
+| 5 | BD | $145K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Data Science |
+| 6 | Bridgewater Associates | $250K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Investment Engineer Intern |
+| 7 | Bevootech | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Business Development Intern, Software Development Intern, Project Management Intern |
+| 8 | <a href="https://smmile.com" rel="nofollow">Smmile Digital</a> | NULL | Web3 Development Intern, Project Management Intern, Digital Marketing Intern |
+| 9 | Bristol Myers Squibb | LOCK | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong>  Data Science |
+| 10 | Capital One | $153K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineering (no visa sponsorship; instant rejection if you declare sponsorship need in the application), Machine Learning, Cyber Security |
+| 11 | Capstone Investment Advisors | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> SWE |
+| 12 | <a href="https://jobs.citi.com/programfinder" rel="nofollow">Citi</a> | $119K | <a href="https://jobs.citi.com/job/new-york/quantitative-analysis-summer-analyst-north-america-2023/287/28553736048" rel="nofollow">Quantitative Analysis</a> Unrestricted work authorization required (no visa sponsorship) |
+| 13 | Credit Suisse | $196K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Search for <code>2023 Americas Technology Summer Analyst</code> |
+| 14 | <a href="https://www.deshaw.com/careers/internships" rel="nofollow">D. E. Shaw &amp; Co.</a> | NULL | <a href="https://www.deshaw.com/careers/software-developer-intern-new-york-4470" rel="nofollow">Software Development</a> (Front-Office SWE), <a href="https://www.deshaw.com/careers/systems-technologist-intern-new-york-4484" rel="nofollow">Systems Technologist</a> (Back-Office SWE), Trading, SysAdmin, etc roles also available. |
+| 15 | <a href="https://fiverings.avature.net/careers/SearchJobs/?524=534&amp;524_format=523&amp;listFilterMode=1&amp;folderRecordsPerPage=6&amp;" rel="nofollow">Five Rings</a> | $275K | <a href="https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Software-Developer-Intern-Summer-2023/595" rel="nofollow">Software Developer Intern</a>, <a href="https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Quantitative-Trading-Intern-Summer-2023/586" rel="nofollow">Quantitative Trading Intern</a> |
+| 16 | Futureforce Tech Summit | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> |
+| 17 | <a href="https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html" rel="nofollow">Goldman Sachs</a> | $160K | Summer Analyst (SWE Roles open July 1st) |
+| 18 | Grindr | $170K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Rising Senior/Masters. Web. |
+| 19 | Iomaxis | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> SWE (US Citizens Only) |
+| 20 | KPMG | $125K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Technology Assurance Audit Intern |
+| 21 | <a href="https://morganstanley.tal.net/vx/candidate/apply/12954" rel="nofollow">Morgan Stanley</a> | $143K | Technology Summer Analyst |
+| 22 | NRO | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> NRO Cadre Student Internship Program |
+| 23 | <a href="https://www.optiver.com/working-at-optiver/career-opportunities/?filter-level=internship" rel="nofollow">Optiver</a> | $253K | Software engineer for <a href="https://grnh.se/d61ca1892us" rel="nofollow">Chicago</a> and <a href="https://grnh.se/c7aa58e22us" rel="nofollow">Austin</a>. Quantitative trading for <a href="https://grnh.se/45f58a8d2us" rel="nofollow">Chicago</a> and <a href="https://grnh.se/da66387c2us" rel="nofollow">Austin</a>. Hardware engineer for <a href="https://grnh.se/23b2990f2us" rel="nofollow">Chicago</a> and <a href="https://grnh.se/a63825272us" rel="nofollow">Austin</a>. (sponsorship available for most positions-exceptions may apply) |
+| 24 | Procter &amp; Gamble | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Information Technology, Software Engineering (sponsorship NOT available) |
+| 25 | <a href="https://hdhp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/22745/?sortBy=POSTING_DATES_DESC" rel="nofollow">Putnam Investments</a> | NULL | Software Engineer Intern |
+| 26 | SIG | NULL | <a href="https://careers.sig.com/job/6228/Software-Engineering-Internship-Program-Summer-2023" rel="nofollow">Software Engineering Intern</a>, <a href="https://careers.sig.com/job/6491/Trading-Intern-Philadelphia-Area" rel="nofollow">Trading Intern</a> |
+| 27 | Volvo | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> |
+| 28 | <a href="https://www.voloridge.com/join-our-team" rel="nofollow">Voloridge Investment Management</a> | LOCK | Quant Hedge Fund: Quant, SWE, &amp; Finance roles |
+| 29 | GE Appliances | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> IT Intern |
+| 30 | <a href="https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/401-Plymouth-Road-Suite-600-Plymouth-Meeting-PA/Summer-2023-Key-Technology--Operations---Services-Internship--Enterprise-Secruity-Track-_R-10996?codes=IND" rel="nofollow">KeyBank</a> | $140K | Key Technology, Operations &amp; Services Internship (Enterprise Security Track) @ Plymouth, PA |
+| 31 | John Deere | $135K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> IT - Software Engineering &amp; Cyber Security  (sponsorship NOT available) |
+| 32 | Microsoft Neurodiversity Hiring Program | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> |
+| 33 | <a href="https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Software-Engineer-Intern-Summer-2023-Meraki/1368018?source=Cisco+Jobs+Career+Site&amp;tags=CDC+SnNG+interview-tips" rel="nofollow">Cisco (Meraki)</a> | NULL | Full Stack Software Engineer Intern (Implicitly offer no sponsorship to international student) |
+| 34 | <a href="https://www.amazon.jobs/en/jobs/2110678/software-development-engineer-internship-2023-us" rel="nofollow">Amazon</a> | $208K | SDE Intern |
+| 35 | <a href="https://www.bvp.com/bessemer-fellows" rel="nofollow">Bessemer Fellowship Program</a> | NULL | Matching college students with Bessemer-backed tech companies |
+| 36 | <a href="https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-ab3ba52a6a61/wid-1/candidate/so/pm/1/pl/1/opp/6075-Summer-Internship-Program-Americas/en-GB" rel="nofollow">BlackRock</a> | $158K | Select Business Area -&gt; Technology, Business Division -&gt; Software Engineering in the application |
+| 37 | <a href="https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship/10972" rel="nofollow">Two Sigma</a> | $320K | Quant Research, <a href="https://careers.twosigma.com/careers/JobDetail?jobId=11002" rel="nofollow">SWE</a> |
+| 38 | <a href="https://imc.wd5.myworkdayjobs.com/en-US/invitation/jobs/details/Software-Engineer-Intern----Summer-2023_REQ-01961?q=internship" rel="nofollow">IMC</a> | $274K | SDE Intern, Quant Research, Trading |
+| 39 | <a href="https://jobs.lever.co/palantir?commitment=Internship&amp;team=Dev" rel="nofollow">Palantir</a> | $215K | Early Admissions - Software Engineer, Internship |
+| 40 | Tower Research Capital | $65K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Quantitative Trader, Quantitative Developer |
+| 41 | <a href="https://careers.mastercard.com/us/en/job/R-173598/Software-Engineer-Intern" rel="nofollow">Mastercard</a> | $135K | Software Engineer Intern, Information Security Engineer Intern |
+| 42 | <a href="https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Intern" rel="nofollow">Citadel</a> | $428K | Software Engineer Intern and Quant Research Analyst |
+| 43 | <a href="https://www.neocis.com/careers/?gnk=job&amp;gni=8a7887ac81818f790181a70be60322fb&amp;lang=en" rel="nofollow">Neocis</a> | NULL | Software Engineering Internship |
+| 44 | <a href="https://careers.hpe.com/us/en/search-results?keywords=software%20intern" rel="nofollow">Hewlett Packard Enterprise</a> | NULL | Software Developer Intern, Software Engineering Intern, <a href="https://careers.hpe.com/us/en/job/HPE1US1135450EXTERNALENUS/Artificial-Intelligence-AI-Machine-Learning-ML-Intern" rel="nofollow">AI/ML Intern</a>, <a href="https://careers.hpe.com/us/en/job/HPE1US1135416EXTERNALENUS/Data-Science-Intern" rel="nofollow">Data Science Intern</a> |
+| 45 | Ocient | $130K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer Internship |
+| 46 | Blackstone | $162K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Developer Summer Analyst (undergrad) |
+| 47 | <a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/details/College-Intern-Administrative---Documentation_R10064554-1?q=software%20engineer&amp;workerSubType=a111b0a898f10129e4db58f2e700d97a" rel="nofollow">Northrop Grumman</a> | $100K | Software Engineer Intern (US Citizenship Required) |
+| 48 | <a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=software+engineer+intern" rel="nofollow">Oracle</a> | $198K | (Multiple Software Engineer Interns - Application Developments/Analytics Cloud/DB and Systems/Netsuite, etc. (CPT/OPT Work Authorization available)) |
+| 49 | <a href="https://www.lockheedmartinjobs.com/job/-/-/694/35880434816" rel="nofollow">Lockheed Martin</a> | $116K | Software Engineer - Intern (US Citizenship required) |
+| 50 | <a href="https://careers.freddiemac.com/us/en/job/JR7788/Multifamily-Software-Developer-Intern-Hybrid-or-Remote-Work-Schedule" rel="nofollow">Freddie Mac</a> | $93K | Multifamily Software Developer Intern |
+| 51 | Jane Street | $425K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer Summer Internship 2023 |
+| 52 | Asana | $250K | <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Summer 2023 Engineering Internship, <a href="https://asana.com/jobs/apply/4613917?gh_jid=4613917&amp;gh_src=403389e31us" rel="nofollow">Summer 2023 Data Science Internship</a> |
+| 53 | <a href="https://boards.greenhouse.io/seveneightcapital/jobs/6304824002?gh_jid=6304824002" rel="nofollow">Seven Eight Capital</a> | $151K | Software Engineer Internship |
+| 54 | <a href="https://boards.greenhouse.io/databento/jobs/4374815?" rel="nofollow">Databento</a> | NULL | SWE Intern (H1B sponsorship available) |
+| 55 | ServiceNow | $195K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Database Software Engineer Intern |
+| 56 | <a href="https://boards.greenhouse.io/virtu/jobs/5432329002" rel="nofollow">Virtu Financial</a> | $220K | Internship - Developer (10 weeks Summer 2023) |
+| 57 | <a href="https://prudential.eightfold.ai/careers?pid=12393231&amp;Job%20Category=Technology&amp;location_country=US&amp;early_talent=Summer%20Internships&amp;domain=prudential.com" rel="nofollow">Prudential</a> | NULL | Software Engineering Summer Internship Program |
+| 58 | <a href="https://boards.greenhouse.io/pdtpartners/jobs/4423823" rel="nofollow">PDT Partners</a> | $600K | Software Engineering Internship (10 weeks Summer 2023) |
+| 59 | <a href="https://jobs.lever.co/verkada?department=Engineering#:~:text=SOFTWARE%20%2D%20CORE%20COMMAND-,SOFTWARE%20%2D%20EARLY%20CAREERS,-APPLY" rel="nofollow">Verkada</a> | $205K | <a href="https://jobs.lever.co/verkada/771ec38b-605e-4f59-8a73-b1b0ccde1358" rel="nofollow">Backend Software Engineering Intern</a>, <a href="https://jobs.lever.co/verkada/ebdf69a0-f158-4103-8168-001964c9464b" rel="nofollow">Computer Vision Engineering Intern</a>, <a href="https://jobs.lever.co/verkada/f8e567ee-b75f-498a-8cad-a0f0f47eb298" rel="nofollow">Embedded Systems Engineering Intern</a>, <a href="https://jobs.lever.co/verkada/eedaa343-79ae-4b7f-a73f-3f860050822f" rel="nofollow">Frontend Software Engineering Intern</a>, <a href="https://jobs.lever.co/verkada/de0b103e-1bb6-4619-bea8-4ed254267f6b" rel="nofollow">Mobile Engineering Intern</a>, <a href="https://jobs.lever.co/verkada/55ee059c-dbca-4034-af57-133de54a22fe" rel="nofollow">Security Engineering Intern</a> |
+| 60 | Code 2040 | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineering Internship Fellowship (9 weeks Summer 2023) |
+| 61 | <a href="https://boards.greenhouse.io/vanta/jobs/5868552002" rel="nofollow">Vanta</a> | $281K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> SWE Internship |
+| 62 | <a href="https://careers.l3harris.com/job/-/-/4832/33418640224" rel="nofollow">L3Harris Technologies</a> | NULL | Software Engineer Intern (US Government Security Clearance needed) |
+| 63 | Pixar Animation Studios | $147K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer Intern (no visa sponsorship) |
+| 64 | <a href="https://careers.pnc.com/global/en/job/PNC1GLOBALR112729/Technology-Summer-Intern-Program?utm_source=symphonytalentmpx&amp;utm_medium=phenom-feeds" rel="nofollow">PNC</a> | $88K | Technology Summer Intern Program |
+| 65 | PWC | $99K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Technology Consulting Intern (STEM extension for H1B possible) |
+| 66 | <a href="https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Researcher-Intern--Summer-2023_R700" rel="nofollow">Arrowstreet Capital</a> | $400K | Quantitative Researcher Intern |
+| 67 | <a href="https://jobs.lever.co/valkyrietrading/cf65c6b9-a11f-4fa1-9c4e-f5726f6bf4d1?lever-source=Indeed" rel="nofollow">Valkyrie</a> | NULL | Software Engineer Intern |
+| 68 | <a href="https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Attleboro-Massachusetts/Software-Engineer-Intern---Summer-2023_IRC86996" rel="nofollow">Sensata</a> | LOCK | Software Engineer Intern |
+| 69 | Peraton | $105K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer Intern (Undergrad) |
+| 70 | SPS | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer Intern |
+| 71 | General Motors | $105K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> 2023 Summer Intern – Software Engineering (Sponsorship <strong>not</strong> available.) |
+| 72 | <a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210321355" rel="nofollow">JP Morgan</a> | NULL | Software Engineer Intern (10 Weeks) (no visa sponsorship) |
+| 73 | <a href="https://jobs.roblox.com/careers?query=product%20manager%20intern&amp;pid=137452383317&amp;domain=roblox.com" rel="nofollow">Roblox</a> | $402K | Product Manager - Intern (Summer 2023) |
+| 74 | Intuit | $264K | Software Engineer Intern |
+| 75 | <a href="https://university-uber.icims.com/jobs/116847/job" rel="nofollow">Uber</a> | $396K | 2023 Software Engineer Internship |
+| 76 | Uber | $396K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineering Intern for Freshmen/Sophomores |
+| 77 | <a href="https://www.hudsonrivertrading.com/careers/?_4118765=Internship" rel="nofollow">Hudson River Trading</a> | $600K | Algorithm Development, Software Engineering (C++ or Python) |
+| 78 | Sentry.io | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer, Intern (Summer 2023) |
+| 79 | Nordstrom | $147K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineering Internship Summer 2023 |
+| 80 | Bluestaq | LOCK | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Development Internship Summer 2023(U.S. citizen required) |
+| 81 | <a href="https://jobs.jnj.com/jobs/2206063332W?lang=en-us&amp;previousLocale=en-US" rel="nofollow">Johnson &amp; Johnson</a> | NULL | Software Development Internship Summer 2023 (sponsorship not available) |
+| 82 | <a href="https://drw.com/work-at-drw/category/campus/" rel="nofollow">DRW</a> | $284K | <a href="https://drw.com/work-at-drw/job/software-developer-intern-2302636" rel="nofollow">Software Developer Intern (Chicago)</a> <br> <a href="https://drw.com/work-at-drw/job/quantitative-trading-analyst-intern-2302675/" rel="nofollow">Quantitative Trading Analyst Intern (all locations)</a> <br> <a href="https://drw.com/work-at-drw/job/quantitative-research-intern-2301002/" rel="nofollow">Quantitative Research Intern (Chicago, Masters/PhD)</a> |
+| 83 | <a href="https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2023-Intern---Software-Engineer_JR155116-2" rel="nofollow">Salesforce</a> | $230K | SWE Internship |
+| 84 | <a href="https://instabase.com/careers/" rel="nofollow">Instabase</a> | $213K | <a href="https://instabase.com/careers/?gh_jid=6284550002" rel="nofollow">Software Engineer, Intern (Frontend/Fullstack)</a>, <a href="https://instabase.com/careers/?gh_jid=6261089002" rel="nofollow">Software Engineer, Intern (Backend)</a> |
+| 85 | <a href="https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Intern-United-States/1380727" rel="nofollow">Cisco</a> | $210K | Software Engineer I (Intern), <a href="https://jobs.cisco.com/jobs/ProjectDetail/Data-Analyst-Intern-United-States/1380904?source=Cisco+Jobs+Career+Site&amp;tags=CDC+Keyword+Search+students-and-new-graduates" rel="nofollow">Data Analyst Intern</a>, <a href="https://jobs.cisco.com/jobs/ProjectDetail/Data-Scientist-Intern-United-States/1381149?source=Cisco+Jobs+Career+Site&amp;tags=CDC+Keyword+Search+students-and-new-graduates" rel="nofollow">Data Scientist Intern</a> (No visa sponsorship) |
+| 86 | <a href="https://careers.l3harris.com/job/-/-/4832/33828250528?src=SNS-10240" rel="nofollow">L3Harris Technologies</a> | NULL | Software Eng Intern(require US Citizenship) |
+| 87 | <a href="https://www.vanguardjobs.com/job-search-results/?keyword=intern&amp;category=Technology" rel="nofollow">Vanguard</a> | $93K | Software Eng Intern (No sponsorships) |
+| 88 | Nvidia | $241K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong>  SWE Intern |
+| 89 | <a href="https://jobs.lever.co/vendry/911401c3-9f06-4719-bc26-e3ac34207e67" rel="nofollow">The Vendry</a> | NULL | Software Development Internship |
+| 90 | <a href="https://www.yugabyte.com/careers" rel="nofollow">YugaByte</a> | $175K | <a href="https://jobs.lever.co/yugabyte/04069622-96ff-4079-a99f-3d38a3d5a451" rel="nofollow">Software Engineer Intern - Core Database</a> <br> <a href="https://jobs.lever.co/yugabyte/4d4d3eb0-5c17-4177-86ad-fbfaf9cb6fec" rel="nofollow">Software Engineer Intern (Backend) - Cloud Infrastructure</a> <br> <a href="https://jobs.lever.co/yugabyte/9722ed9e-a35a-429c-abea-2791ca679fb6" rel="nofollow">Software Engineer Intern (Frontend) - Cloud Infrastructure</a> |
+| 91 | KLA | $162K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> SWE Intern |
+| 92 | <a href="https://www.qualtrics.com/careers/us/en/job/87166/Software-Engineering-Intern-Summer-2023-Provo-UT" rel="nofollow">Qualtrics</a> | $230K | Software Engineering Intern (no sponsorships available) |
+| 93 | Neighbor | LOCK | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineering Intern (On-site) |
+| 94 | National Instrument | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineering Intern (No sponsorships) |
+| 95 | Duolingo | $190K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer Intern |
+| 96 | <a href="https://www.amazon.jobs/en/jobs/2125073/audible-software-development-engineer-internship" rel="nofollow">Audible</a> | $186K | SDE Internship |
+| 97 | Chick-fil-A | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineering Intern |
+| 98 | <a href="https://boards.greenhouse.io/aquaticcapitalmanagement" rel="nofollow">Aquatic Capital Management</a> | NULL | Software Engineering Intern, Quantitative Research Intern |
+| 99 | <a href="https://jobs.ericsson.com/job/Santa-Clara-Computer-Science-&amp;-Data-Science-Internship-%282023%29-Cali/751881302/" rel="nofollow">Ericsson</a> | $73K | Software Engineering Intern, Data Science Intern |
+| 100 | <a href="https://www.amazon.jobs/en/jobs/2186435/engineering-intern" rel="nofollow">Twitch</a> | $230K | Engineering Intern (BS only) |
+| 101 | <a href="https://www.accenture.com/us-en/careers/jobdetails?id=R00098803_en&amp;title=Summer+Analyst+(Intern)+Development+Programs+-+NAELFY23" rel="nofollow">Accenture</a> | $107K | Summer Analyst - Technology Development Program |
+| 102 | <a href="https://jobs.lever.co/quantcast/54c549a1-10cc-4942-8765-c7ffdf253b1d" rel="nofollow">Quantcast</a> | $176K | Software Engineering Intern |
+| 103 | <a href="https://jobs.lever.co/belvederetrading/5098c277-d2a6-41eb-ab9c-b80ded219154" rel="nofollow">Belvedere Trading</a> | $165K | Software Engineering Intern |
+| 104 | <a href="https://www.jumptrading.com/careers/?locations=Chicago+Austin+New-York+New-Jersey+Remote+Cranberry-Township&amp;titleSearch=campus+intern" rel="nofollow">Jump Trading</a> | $350K | <a href="https://www.jumptrading.com/careers/4452653/" rel="nofollow">Campus | Software Engineer 2023 (Summer Intern)</a> <br> <a href="https://www.jumptrading.com/careers/4471649/" rel="nofollow">Campus | FPGA Engineer 2023 (Summer Intern)</a> <br> <a href="https://www.jumptrading.com/careers/4387580/" rel="nofollow">Campus | Tech Ops Engineer 2023 (Intern)</a> <br> <a href="https://www.jumptrading.com/careers/4471685/" rel="nofollow">Campus | Data Engineer 2023 (Summer Intern)</a> <br> <a href="https://www.jumptrading.com/careers/4471639/" rel="nofollow">Campus | Web Dev / UI Software Engineer 2023 (Summer Intern)</a> |
+| 105 | <a href="https://www.databricks.com/company/careers/open-positions/job?gh_jid=6289910002" rel="nofollow">Databricks</a> | $369K | Software Engineering Intern |
+| 106 | <a href="https://aexp.eightfold.ai/careers/job?domain=aexp.com&amp;pid=12787284" rel="nofollow">American Express</a> | $112K | 2023 Technology Software Engineer Summer Internship (no sponsorship) |
+| 107 | Klaviyo | $180K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Summer 2023 Software Engineer Intern (No visa sponsorship) |
+| 108 | Starbucks | $167K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Summary 2023 Technology undergraduate intern |
+| 109 | <a href="https://www.ibm.com/us-en/employment/entrylevel/#jobs?%23jobs=&amp;job-search=" rel="nofollow">IBM</a> | $150K | <a href="https://careers.ibm.com/job/16478329/firmware-developer-summer-intern-2023-remote/?codes=IBM_CareerWebSite" rel="nofollow">Firmware Developer Summer Intern: 2023</a>, Data Scientist Intern (Multiple Openings) |
+| 110 | Fidelity | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Data Analytics Intern |
+| 111 | <a href="https://careers-cohencpa.icims.com/jobs/1436/software-development-internship-%5bsummer-2023%5d/job?mobile=false&amp;width=1743&amp;height=500&amp;bga=true&amp;needsRedirect=false&amp;jan1offset=-480&amp;jun1offset=-420" rel="nofollow">Cohen &amp; Co</a> | NULL | Software Development Internship |
+| 112 | Figma | $281K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer Intern |
+| 113 | <a href="https://flatiron.com/careers/open-positions/4454681" rel="nofollow">Flatiron Health</a> | $197K | SWE Intern |
+| 114 | Redfin | $179K | <a href="https://redfin.wd1.myworkdayjobs.com/en-US/redfin_careers/job/Software-Developer--2023-Internship_49169-1" rel="nofollow">Software Developer: 2023 Internship</a>, <a href="https://redfin.wd1.myworkdayjobs.com/redfin_careers_ET/job/Remote-Work-Location/Data-Analyst--2023-Summer-Internship_49200" rel="nofollow">Data Analyst: 2023 Internship</a> |
+| 115 | <a href="https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Summer-2023-Internship---Software-Engineering_RP1026625" rel="nofollow">F5</a> | NULL | SWE Intern |
+| 116 | <a href="https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/Tempe-AZ/Software-Engineer-Intern_R2271" rel="nofollow">DriveTime</a> | LOCK | SWE Intern |
+| 117 | SeatGeek | $175K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> SWE Intern |
+| 118 | <a href="https://jobs.goodyear.com/job/Akron-Global-Technology-%28Data-Science-and-Analytics%29-Co-op-Internship-OH-44301/923168600/?feedId=367300" rel="nofollow">GoodYear</a> | $115K | Data Science Intern |
+| 119 | <a href="https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Software-Engineer-Internship---Summer-2023_JREQ162362" rel="nofollow">Thomson Reuters</a> | $111K | SWE Intern (No visa sponsorships) |
+| 120 | Proofpoint | $200K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Developer Intern |
+| 121 | ServiceNow | $195K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineering Intern |
+| 122 | Convoy | $233K | <a href="https://boards.greenhouse.io/convoy/jobs/4631008004?gh_src=f0b55ea54us" rel="nofollow">Software Engineer Intern</a>, <a href="https://boards.greenhouse.io/convoy/jobs/4631039004" rel="nofollow">Business Intelligence Engineer Intern</a> |
+| 123 | Lime | $180K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineering Intern (Summer 2023) |
+| 124 | <a href="https://recruiting.adp.com/srccar/public/nghome.guid?c=1143611&amp;d=External&amp;prc=RMPOD3&amp;r=5000877708900#/" rel="nofollow">Daikin</a> | NULL | SWE Intern (No Sponsorship) |
+| 125 | Lyft | $330K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> SWE Intern Generalist, SWE Intern Frontend |
+| 126 | Optimal Dynamics | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> SWE Intern |
+| 127 | Citrix | $165K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer Intern (Summer 2023) |
+| 128 | Target | $122K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineering Intern - Hybrid (Starting June 2023) |
+| 129 | <a href="https://nasdaq.wd1.myworkdayjobs.com/en-US/US_External_Career_Site/job/Denver/Software-Engineer-ing-Intern---US---Canada-2023-Internship_R0011592?source=11663" rel="nofollow">Nasdaq</a> | $73K | Software Engineering Intern – US &amp; Canada 2023 Internship |
+| 130 | <a href="https://careers.viasat.com/careers/FolderDetail?folderId=11400" rel="nofollow">Viasat</a> | $127K | Software Engineer Intern |
+| 131 | Paycom | $105K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Development Intern |
+| 132 | <a href="https://jobs.lever.co/qvest.us/8dc881a8-45fe-45e2-ab2e-eff6618f7f28/" rel="nofollow">Qvest</a> | NULL | Software Engineering Intern (cover letter required) |
+| 133 | <a href="https://trihydro.hua.hrsmart.com/hr/ats/Posting/view/672" rel="nofollow">Trihydro Corporation</a> | NULL | Software Developer Intern |
+| 134 | <a href="https://app.ripplematch.com/job/datadog/692468c7/" rel="nofollow">Datadog</a> | $221K | Software Engineer Intern |
+| 135 | <a href="https://paypal.eightfold.ai/careers/job?domain=paypal.com&amp;query=intern&amp;pid=274890684413&amp;Job%20Category=&amp;Country=" rel="nofollow">Paypal</a> | $200K | Software Engineer Intern |
+| 136 | <a href="https://netapp.eightfold.ai/careers?seniority=Intern&amp;pid=12955970&amp;domain=netapp.com&amp;triggerGoButton=false" rel="nofollow">NetApp</a> | $183K | Software Engineering Intern |
+| 137 | <a href="https://www.benchling.com/careers?jobId=4475866&amp;gh_src=838b85821us" rel="nofollow">Benchling</a> | $195K | Software Engineer Intern |
+| 138 | Scale AI | $250K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineering Intern |
+| 139 | PathAI | $140K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer Intern |
+| 140 | Garda Capital Partners | LOCK | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> .Net Software Engineer Intern |
+| 141 | <a href="https://www.epicgames.com/site/en-US/careers/jobs?type=Intern&amp;department=Engineering" rel="nofollow">Epic Games</a> | $198K | Multiple Intern Positions |
+| 142 | <a href="https://www.mathworks.com/company/jobs/opportunities/25610-multiple-openings-engineering-development-group-internship?utm_campaign=google_jobs_apply&amp;utm_source=google_jobs_apply&amp;utm_medium=organic" rel="nofollow">Mathworks</a> | $145K | Engineering Development Group Intern (Spring and Summer 2023) |
+| 143 | GoDaddy | $178K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Multiple Intern Position |
+| 144 | <a href="https://boards.greenhouse.io/ridgeline/jobs/5261354003?gh_jid=5261354003" rel="nofollow">Ridgeline</a> | $120K | Software Engineer Intern (No visa sponsorships) |
+| 145 | Exact Sciences | $113K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer Intern |
+| 146 | <a href="https://jobs.keysight.com/go/Students/3065700/?q=&amp;q2=&amp;alertId=&amp;title=software&amp;location=US&amp;shifttype=intern&amp;department=" rel="nofollow">Keysight Technologies</a> | NULL | Various Positions |
+| 147 | Rippling | $330K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineering Intern, Summer 2023 |
+| 148 | <a href="https://jobs.lever.co/Insitro/abbbfa4d-5d2c-4b93-993a-518ca8cc305f" rel="nofollow">Insitro</a> | LOCK | Software Engineering Intern |
+| 149 | State Farm | $106K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineering Intern Summer 2023 (No sponsorship) |
+| 150 | <a href="https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions?keyword=2023+START+Technology+Intern" rel="nofollow">BNY Mellon</a> | $110K | <a href="https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/26406?utm_medium=jobshare&amp;src=JB-10200" rel="nofollow">2023 START Technology Intern Program – Developer</a> <br> <a href="https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/26449/?utm_medium=jobshare&amp;src=JB-10200" rel="nofollow">2023 START Technology Intern Program – Data Science</a> (No sponsorship) |
+| 151 | <a href="https://boards.greenhouse.io/appliedintuition/jobs/4045296005?gh_jid=4045296005" rel="nofollow">Applied Intuition</a> | $201K | Software Engineer |
+| 152 | Workiva | $135K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer Intern (No Sponsorship) |
+| 153 | <a href="https://gallup.taleo.net/careersection/2/jobsearch.ftl" rel="nofollow">Gallup</a> | $104K | <a href="https://gallup.taleo.net/careersection/2/jobdetail.ftl?job=05494" rel="nofollow">Technical Project Manager</a>, <a href="https://gallup.taleo.net/careersection/2/jobdetail.ftl?job=05493" rel="nofollow">Cybersecurity Analyst</a>, <a href="https://gallup.taleo.net/careersection/2/jobdetail.ftl?job=05492" rel="nofollow">Data Science</a>, <a href="https://gallup.taleo.net/careersection/2/jobdetail.ftl?job=05491" rel="nofollow">Quality Assurance</a>, <a href="https://gallup.taleo.net/careersection/2/jobdetail.ftl?job=05490" rel="nofollow">Software Developer</a> |
+| 154 | Intel | $200K | <a href="https://jobs.intel.com/ShowJob/Id/3543774/Undergraduate%20Intern%20%20%20Graphics%20Software" rel="nofollow">Graphics Intern</a>, <a href="https://jobs.intel.com/job/phoenix/undergraduate-internship-data-science-bachelors/41147/35292794560" rel="nofollow">Data Science Intern</a> |
+| 155 | <a href="https://dell.wd1.myworkdayjobs.com/ExternalNonPublic/job/Round-Rock-Texas-United-States/Software-Engineer-Intern_R206227" rel="nofollow">Dell</a> | NULL | Software Engineer Intern |
+| 156 | <a href="https://boards.greenhouse.io/neuralink/jobs/5285389003" rel="nofollow">Neuralink</a> | LOCK | Software Engineering Intern |
+| 157 | <a href="https://boards.greenhouse.io/rivian/jobs/5303129003" rel="nofollow">Rivian</a> | $210K | <a href="https://boards.greenhouse.io/rivian/jobs/5199457003" rel="nofollow">Product Development Engineering Interns</a>, <a href="https://boards.greenhouse.io/rivian/jobs/5303129003" rel="nofollow">Software Engineer Intern</a> |
+| 158 | <a href="https://zillowgroup.eightfold.ai/careers/job/240531418207?domain=zillowgroup.com" rel="nofollow">Zillow</a> | $270K | Software Development Engineer Intern |
+| 159 | <a href="https://www.taboola.com/careers/job/frontend-engineer-intern?gh_jid=4498767" rel="nofollow">Taboola</a> | $165K | Frontend Engineer Intern |
+| 160 | <a href="https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet?q=intern" rel="nofollow">Arrowstreet Capital</a> | $400K | Quantitative Developer Intern, Quantitative Researcher Intern |
+| 161 | <a href="https://apply.deloitte.com/careers/JobDetail/Deloitte-Risk-Financial-Advisory-Software-Engineer-Intern-Technology-Assets-Summer-2023/114948" rel="nofollow">Deloitte</a> | $110K | Deloitte Risk &amp; Financial Advisory Software Engineer Intern |
+| 162 | <a href="https://www.linkedin.com/jobs/view/3307377842" rel="nofollow">Linkedin</a> | $304K | Software Engineering Intern - Summer 2023 |
+| 163 | Stripe | $417K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer Intern (Seattle, San Francisco, New York, Dublin, Singapore) |
+| 164 | <a href="https://jobs.discover.com/job-search/?keyword=internship&amp;department=&amp;page=&amp;location=&amp;remoteOnly=" rel="nofollow">Discover Financial Services</a> | $139K | Business Technology, Data &amp; Analytics Internship (No Sponsorship) |
+| 165 | Hubspot | $193K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer Intern |
+| 166 | <a href="https://www.ixl.com/company/careers?gh_jid=6304526002&amp;gh_src=e358d0722" rel="nofollow">IXL</a> | NULL | Software Engineer Intern |
+| 167 | <a href="https://boards.greenhouse.io/affirm/jobs/5283828003" rel="nofollow">Affirm</a> | $300K | Software Engineer Intern |
+| 168 | <a href="https://jobs.smartrecruiters.com/Visa/743999848890091-intern-software-engineer-undergrad-multiple-locations-summer-2022" rel="nofollow">Visa</a> | $175K | Software Engineer Intern |
+| 169 | <a href="https://careers.chewy.com/us/en/search-results?keywords=%22software%20engineer%20intern%22" rel="nofollow">Chewy</a> | $188K | Software Engineer Intern (Bachelors degree students only) |
+| 170 | <a href="https://www.riotgames.com/en/work-with-us/jobs#search=intern" rel="nofollow">Riot Games</a> | $223K | <a href="https://www.riotgames.com/en/j/4526877" rel="nofollow">UX Design</a>; <a href="https://www.riotgames.com/en/j/4526870" rel="nofollow">UX Design - Project L</a>; <a href="https://www.riotgames.com/en/work-with-us/job/4494239/product-manager-intern-mba-los-angeles-usa" rel="nofollow">Project Manager</a> |
+| 171 | <a href="https://aig.wd1.myworkdayjobs.com/aig/job/NJ-Jersey-City/XMLNAME-2023---Early-Career---Technology---Summer-Intern---United-States--Jersey-City--NJ--or-Charlotte--NC-_JR2206963-1" rel="nofollow">AIG</a> | $130K | 2023 Early Career Technology Summer Intern |
+| 172 | <a href="https://cgi.njoyn.com/cgi/xweb/xweb.asp?clid=21001&amp;page=jobdetails&amp;jobid=J0822-2628&amp;BRID=990720&amp;SBDID=943" rel="nofollow">CGI</a> | $84K | Software Developer Intern (Bachelors degree students only) |
+| 173 | <a href="https://careers.tiktok.com/position?keywords=software&amp;category=&amp;location=CT_243%2CCT_94%2CCT_157%2CCT_114%2CCT_104%2CCT_221%2CCT_222%2CCT_233%2CCT_75%2CCT_203%2CCT_1103347%2CCT_223%2CCT_1000001%2CCT_100762%2CCT_247&amp;project=7129361493955135774&amp;type=3&amp;job_hot_flag=&amp;current=1&amp;limit=10&amp;functionCategory=" rel="nofollow">TikTok</a> | NULL | Software Engineer Intern |
+| 174 | <a href="https://jobs.discovery.com/careers-home/jobs?keywords=intern" rel="nofollow">Warner Bros Discovery</a> | NULL | <a href="https://jobs.discovery.com/careers-home/jobs/33044?lang=en-us" rel="nofollow">Software Engineering Intern</a>, <a href="https://jobs.discovery.com/careers-home/jobs/33159?lang=en-us" rel="nofollow">Data Science &amp; Analytics Internship</a> |
+| 175 | <a href="https://jobs.bytedance.com/en/position/7138261141784611103/detail?spread=BSPP2KS" rel="nofollow">ByteDance</a> | $294K | Software Engineer Intern |
+| 176 | <a href="https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25404&amp;siteid=5601#jobDetails=3060632_5601" rel="nofollow">TD Ameritrade</a> | $128K | Software Engineering Intern (must be an undergrad) |
+| 177 | <a href="https://careers.viacomcbs.com/job/Burbank-Software-Engineering-Internships-Summer-2023-%28Mobile%2C-Video%2C-Web%2C-UI%29-CA-91505/930475300/?feedId=340900&amp;utm_source=LinkedInJobPostings&amp;utm_campaign=ViacomCBS_LinkedIn" rel="nofollow">Paramount</a> | NULL | Software Engineering Intern |
+| 178 | Nuro | $310K | <a href="https://www.nuro.ai/careersitem?gh_jid=4524036&amp;gh_src=bcd22a501us" rel="nofollow">Software Engineer (SRE) Intern</a>, <a href="https://www.nuro.ai/careersitem?gh_jid=4524021&amp;gh_src=bcd22a501us" rel="nofollow">Software Systems Engineer Intern</a> |
+| 179 | <a href="https://boards.greenhouse.io/relativity/jobs/6363660002?gh_jid=6363660002" rel="nofollow">Relativity Space</a> | $165K | Software Engineer Intern (C/C++) (Requires US citizenship) |
+| 180 | <a href="https://www.dropbox.com/jobs/teams/emerging-talent" rel="nofollow">Dropbox</a> | $347K | <a href="https://www.dropbox.com/jobs/listing/4380645?gh_src=aonhf1" rel="nofollow">Software Engineer Intern</a>, <a href="https://www.dropbox.com/jobs/teams/emerging-talent" rel="nofollow">Data Science Intern</a> |
+| 181 | <a href="https://app.ripplematch.com/job/mongodb/6d3b16e9/" rel="nofollow">MongoDB</a> | $283K | Software Engineer Intern |
+| 182 | <a href="https://www.urbn.com/internships" rel="nofollow">Urban Outfitters</a> | NULL | <a href="https://recruiting.ultipro.com/URB1003UROI/JobBoard/10af8568-5cfd-415b-8dc2-ed6cecf3006c/OpportunityDetail?opportunityId=fb48b358-7991-44dc-bb18-eb893a8d76f2" rel="nofollow">Web Software Engineer Intern</a>, <a href="https://recruiting.ultipro.com/URB1003UROI/JobBoard/10af8568-5cfd-415b-8dc2-ed6cecf3006c/OpportunityDetail?opportunityId=cfabd4f4-0b50-455a-89e3-020e681d9a3a" rel="nofollow">Network Engineering Intern</a> |
+| 183 | <a href="https://news-engineering.notion.site/WaPo-Engineering-internship-details-resources-application-office-hours-e7a930543e3749988404c73f7e62be78" rel="nofollow">The Washington Post</a> | $120K | Software Engineer Intern (no visa sponsorship) |
+| 184 | <a href="https://jobs.jobvite.com/pitchbook/job/ohpTkfwD?__jvst" rel="nofollow">Pitchbook</a> | NULL | Product Management Intern |
+| 185 | Lucid Software | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineering Internship, Data Analyst Internship |
+| 186 | <a href="https://www.soundhound.com/careers/" rel="nofollow">SoundHound</a> | $127K | <a href="https://boards.greenhouse.io/soundhoundinc/jobs/6365344002" rel="nofollow">Software Engineering Intern, Acoustic Modeling</a> <br> (Cover letter required) |
+| 187 | <a href="https://slack.com/careers/university-recruiting" rel="nofollow">Slack</a> | $307K | <a href="https://salesforce.wd1.myworkdayjobs.com/Slack/job/California---San-Francisco/XMLNAME-2023-Summer-Intern---Software-Engineer--Slack-_JR162338" rel="nofollow">2023 Summer Intern - Software Engineer</a> |
+| 188 | <a href="https://boards.greenhouse.io/spacex/jobs/6366187002?gh_jid=6366187002" rel="nofollow">SpaceX</a> | $182K | 2023 Summer Intern - Software Engineer (US Citizens Only) |
+| 189 | <a href="https://boards.greenhouse.io/samsara/jobs/4522234?gh_jid=4522234" rel="nofollow">Samsara</a> | $243K | Software Engineer Intern |
+| 190 | <a href="https://www.brex.com/careers/6368393002?gh_jid=6368393002&amp;gh_src=a894a5ff2" rel="nofollow">Brex</a> | $345K | Software Engineer, Intern (Graduating from a <strong>BA/BS</strong> program in 2024) |
+| 191 | <a href="https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Data-Engineering-Intern---Remote_R10306" rel="nofollow">CrowdStrike</a> | $223K | Data Engineering Intern - Summer 2023 |
+| 192 | <a href="https://careers.garmin.com/careers-home/jobs?tags3=Intern&amp;page=1" rel="nofollow">Garmin</a> | $98K | Software Engineer Intern (Summer 2023): <a href="https://careers.garmin.com/careers-home/jobs/9345?lang=en-us" rel="nofollow">Tulsa, OK</a>, <a href="https://careers.garmin.com/careers-home/jobs/9267?lang=en-us" rel="nofollow">Scottsdale, AZ</a>, <a href="https://careers.garmin.com/careers-home/jobs/9266?lang=en-us" rel="nofollow">Chandler, AZ</a>, <a href="https://careers.garmin.com/careers-home/jobs/9219?lang=en-us" rel="nofollow">Tucson, AZ</a>, <a href="https://careers.garmin.com/careers-home/jobs/9243?lang=en-us" rel="nofollow">Cary, NC</a> |
+| 193 | Plaid | $248K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer Intern |
+| 194 | <a href="https://careers.zoom.us/jobs/2023-software-development-engineer-intern-san-jose-california-united-states-fcd909f9-7f35-4d0a-ae0e-c78e3c9fe8a5" rel="nofollow">Zoom</a> | $215K | 2023 Software Development Engineer - Intern |
+| 195 | <a href="https://www.pinterestcareers.com/early-career/internship-university-grad-phd-programs/" rel="nofollow">Pinterest</a> | $300K | <a href="https://www.pinterestcareers.com/job/16663906/software-engineering-intern-usa-remote/" rel="nofollow">Software Engineering Intern</a> (no sponsorship) |
+| 196 | Nike | $160K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Global Technology Engineer Undergraduate Internship |
+| 197 | <a href="https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/XMLNAME-2023-Global-Technology-Software-Engineering-Internship-Program_62478?source=Indeed" rel="nofollow">T.Row Price</a> | NULL | Technology Software Engineering Internship |
+| 198 | <a href="https://salesforce.wd1.myworkdayjobs.com/en-US/Tableau/job/Washington---Seattle/Summer-2023-Intern---Software-Engineer--Tableau-_JR162361-2?source=LinkedIn" rel="nofollow">Tableau</a> | NULL | Summer 2023 Intern - Software Engineer |
+| 199 | <a href="https://careers.homedepot.com/job-search-results/?keyword=intern" rel="nofollow">The Home Depot</a> | $131K | Software Engineering Intern, Data Science Undergraduate Intern (Requires SSN) |
+| 200 | <a href="https://careers.adobe.com/us/en/search-results?keywords=intern" rel="nofollow">Adobe</a> | $245K | <a href="https://careers.adobe.com/us/en/job/R131524/2023-Intern-Software-Engineer" rel="nofollow">Software Engineer Intern</a>, <a href="https://careers.adobe.com/us/en/job/R131734/2023-Intern-Machine-Learning-Engineer-Intern" rel="nofollow">Machine Learning Engineer intern</a>, <a href="https://careers.adobe.com/us/en/job/ADOBUSR131803EXTERNALENUS/2023-Intern-Architect-Developer?utm_medium=phenom-feeds&amp;source=LinkedIn" rel="nofollow">Architect/Developer Intern</a> (more on website) |
+| 201 | Merge | LOCK | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer Intern (Summer 2023) |
+| 202 | <a href="https://www.jpl.jobs/job/JJPLUSR2941EXTERNALENUS/Summer-2023-Software-Engineer-Intern" rel="nofollow">NASA Jet Propulsion Laboratory</a> | NULL | Summer 2023 Software Engineer Intern (Must be Legal Permanent Resident of US, e.g., US Citizenship) |
+| 203 | <a href="https://talent.lowes.com/us/en/job/2411616BR/Software-Engineer-Undergraduate-Intern" rel="nofollow">Lowe's</a> | $150K | Software Engineer, Undergraduate Intern |
+| 204 | <a href="https://careers.rtx.com/global/en/job/01553158" rel="nofollow">Collins Aerospace</a> | NULL | Software Engineer Intern (Summer 2023) (US Citizenship Required) |
+| 205 | <a href="https://avav.wd1.myworkdayjobs.com/en-US/avav?q=software%20engineer%20intern" rel="nofollow">AeroVironment</a> | $171K | Software Engineering Intern - Summer 2023 (US Citizenship Required) |
+| 206 | <a href="https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Software-Engineer_JR23390-1" rel="nofollow">Allegion</a> | LOCK | Summer Intern - Software Engineer |
+| 207 | Arm | $116K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Intern Software Engineer |
+| 208 | <a href="https://www.builtinla.com/job/internship/engineering-intern-summer-2023/124823?utm_campaign=google_jobs_apply&amp;utm_source=google_jobs_apply&amp;utm_medium=organic" rel="nofollow">ABL</a> | NULL | Engineering Intern (Summer 2023) - US Citizenship Required |
+| 209 | Nomura | $160K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> 2023 Summer Analyst - Corporate Infrastructure - Information Technology |
+| 210 | <a href="https://workday.wd5.myworkdayjobs.com/Workday_University_Careers/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-72646" rel="nofollow">Workday</a> | $228K | Software Development Engineer Intern |
+| 211 | Bloomberg | $188K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> 2023 Software Engineer Intern |
+| 212 | Okta | $264K | <a href="https://www.okta.com/company/careers/software-engineer-intern-summer-2023-4554030/" rel="nofollow">Software Engineer Intern</a>, <a href="https://www.okta.com/company/careers/site-reliability-engineer-intern-summer-2023-4554089/" rel="nofollow">Site Reliability Intern</a>, <a href="https://www.okta.com/company/careers/data-analyst-intern-summer-2023-4584188/" rel="nofollow">Data Analyst Intern</a> |
+| 213 | <a href="https://careers.ti.com/job/16564578/software-engineering-intern-dallas-tx/" rel="nofollow">Texas Instruments</a> | $114K | Software Engineer Intern (No sponsorship provided) |
+| 214 | <a href="https://jobs.jobvite.com/splunk/job/opeZkfwG" rel="nofollow">Splunk</a> | $273K | <a href="https://jobs.jobvite.com/splunk/job/oUTZkfwQ" rel="nofollow">Software Engineer Intern Frontend</a>, <a href="https://jobs.jobvite.com/splunk/job/opeZkfwG" rel="nofollow">Software Engineer Intern Backend/Fullstack</a> |
+| 215 | <a href="https://boards.greenhouse.io/cloudflare/jobs/4553743?gh_jid=4553743" rel="nofollow">Cloudflare</a> | $179K | Software Engineer - Intern |
+| 216 | Sony Electronics | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineering Intern |
+| 217 | <a href="https://boards.greenhouse.io/2k/jobs/5303107003" rel="nofollow">2K</a> | NULL | Engineering Internship |
+| 218 | <a href="https://www.lacework.com/job-openings/?gh_jid=4646011004" rel="nofollow">Lacework</a> | $170K | Software Engineer Intern |
+| 219 | Axon | $200K | Software Engineering Internship - Summer 2023 @ <a href="https://boards.greenhouse.io/axon/jobs/5293118003" rel="nofollow">Scottsdale, AZ</a>, <a href="https://boards.greenhouse.io/axon/jobs/5293117003" rel="nofollow">Seattle, WA</a>, <a href="https://boards.greenhouse.io/axon/jobs/5293113003" rel="nofollow">Canada-Remote</a>, <a href="https://boards.greenhouse.io/axon/jobs/5292210003" rel="nofollow">US-Remote</a> |
+| 220 | <a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22023193" rel="nofollow">Emerson Automation Solutions</a> | NULL | Software Development Summer Intern (No Sponsorship) |
+| 221 | <a href="https://careers-shure.icims.com/jobs/2848/software-engineering-intern/job?mode=job" rel="nofollow">Shure Inc.</a> | NULL | Software Engineering Intern |
+| 222 | Code42 | LOCK | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer Intern (C++, Java, C#) |
+| 223 | <a href="https://careers.avanade.com/jobsenus/JobDetail/Intern-Software-Developer-Summer-2023/56206" rel="nofollow">Avanade</a> | $94K | Intern, Software Developer - Summer 2023 (No sponsorship for employment in US/Canada) |
+| 224 | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/West-Valley-City-UT/Software-Engineer--2023-Summer-Internship-_R32052" rel="nofollow">Motorola Solutions</a> | $111K | Software Engineer (2023 Summer Internship) |
+| 225 | <a href="https://careers.ansys.com/job/Canonsburg-Summer-2023-Intern-Ansys-Discovery-Post-processing-%28BachelorsMasters%29-PA-15317/934118500" rel="nofollow">Ansys</a> | $125K | Summer 2023 Software Development Intern - Ansys Discovery Post-processing (BS or MS) |
+| 226 | <a href="https://jobs.jobvite.com/silabs/search?q=&amp;l=&amp;c=University%20Recruiting" rel="nofollow">Silicon Labs</a> | $125K | <a href="https://jobs.jobvite.com/silabs/job/oZgJkfw2" rel="nofollow">Embedded Software Engineering Intern (Austin, TX; or Boston, MA)</a>, <a href="https://jobs.jobvite.com/silabs/job/oV6LkfwQ" rel="nofollow">Software Engineering Intern</a> |
+| 227 | <a href="https://www.asml.com/en/careers/internships?page=1&amp;facets=vacancycountry%253dUS&amp;sortBy=date" rel="nofollow">ASML</a> | $150K | <a href="https://www.asml.com/en/careers/find-your-job/5/3/0/software-test-engineer-intern-req53028" rel="nofollow">Software Test Engineer intern</a>, <a href="https://www.asml.com/en/careers/find-your-job/5/2/5/devops-intern-req52528?ppc=JBP-181" rel="nofollow">Devops Intern</a> (additional on website) |
+| 228 | <a href="https://zebra.eightfold.ai/careers/job?domain=zebra.com&amp;pid=343610667937&amp;pid=343610667937&amp;domain=zebra.com&amp;job_index=0" rel="nofollow">Zebra Technologies</a> | $106K | 2023 Summer Internship - Software Engineer (No Sponsorship) |
+| 229 | <a href="https://boards.greenhouse.io/singlestore/jobs/4557044" rel="nofollow">SingleStore</a> | $150K | Software Engineer, Managed Service Intern (Summer 2023) @ <a href="https://boards.greenhouse.io/singlestore/jobs/4557044" rel="nofollow">Seattle, WA</a>; <a href="https://boards.greenhouse.io/singlestore/jobs/4557045" rel="nofollow">Raleigh, NC</a> |
+| 230 | <a href="https://boards.greenhouse.io/domeyard/jobs/1079185" rel="nofollow">Domeyard LP</a> | NULL | Software Engineer Internship (Summer, Fall, Winter, Spring available) |
+| 231 | <a href="https://boards.greenhouse.io/yext/jobs/4474989" rel="nofollow">Yext</a> | $168K | 2023 Software Engineer Summer Intern |
+| 232 | <a href="https://cmiinc.taleo.net/careersection/ex/jobdetail.ftl?job=220000A4&amp;lang=en" rel="nofollow">Compass Minerals</a> | NULL | Software Engineer Intern (Starts Summer 2023) |
+| 233 | <a href="https://jobs.lever.co/anduril/" rel="nofollow">Anduril</a> | NULL | <a href="https://jobs.lever.co/anduril/d15840b6-081b-4d4c-95ed-008d681b4f7f" rel="nofollow">Software Engineering</a>, <a href="https://jobs.lever.co/anduril/c6d4fc93-2be9-4018-8160-4f490d11328c" rel="nofollow">Robotics Software Engineering</a> (US Person Status Required) |
+| 234 | <a href="https://jobs.lever.co/wolve/4a6fd0be-6bb7-4bbb-9dd5-1416d6a5f5b7" rel="nofollow">Wolverine</a> | NULL | Software Engineer Intern (Summer 2023) (No Sponsorship) |
+| 235 | <a href="https://boards.greenhouse.io/purestorage/jobs/4462754" rel="nofollow">Pure Storage</a> | $270K | Software Engineer Intern (for Summer 2023) |
+| 236 | DeepMind | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Research Engineer Intern |
+| 237 | <a href="https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Software-Engineer_R1635" rel="nofollow">Symbiotic</a> | NULL | Software Engineer Intern |
+| 238 | <a href="https://boards.greenhouse.io/willowtree/jobs/6320082002" rel="nofollow">WillowTree</a> | $113K | Software Engineering Intern (no visa sponsorship) |
+| 239 | Grainger | $141K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineering Intern |
+| 240 | Confluent | $309K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Quality Engineering Intern |
+| 241 | <a href="https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/preview/300493?src=JB-10200" rel="nofollow">TradeWeb</a> | $130K | <a href="https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/300492/?utm_medium=jobshare" rel="nofollow">C++ Dev Intern</a>, <a href="https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/300493/?utm_medium=jobshare" rel="nofollow">Java Intern</a>, <a href="https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/300490/?utm_medium=jobshare" rel="nofollow">Java Full Stack Intern</a> |
+| 242 | <a href="https://getcruise.com/careers/jobs/?search=intern" rel="nofollow">Cruise</a> | $388K | Multiple, mostly ML/SWE |
+| 243 | Amadeus | $54K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Navitaire Engineering Intern |
+| 244 | Gem.com | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer Intern |
+| 245 | <a href="https://www.gapinc.com/en-us/jobs/w76/16/2023-undergrad-summer-internship-gaptech-software-" rel="nofollow">Gap</a> | $140K | Software Engineering (no visa sponsorship) |
+| 246 | DeepGram | LOCK | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineering |
+| 247 | <a href="https://matroid.breezy.hr/p/46f69de2cc24-software-engineer-intern-infrastructure" rel="nofollow">Matroid</a> | LOCK | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer |
+| 248 | <a href="https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Draper-UT/Software-Engineer-Summer-Intern---Undergrad_R8448" rel="nofollow">Proofpoint</a> | $200K | Software Engineer |
+| 249 | Grammarly | LOCK | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer |
+| 250 | Stryker | $135K | Software Engineer <a href="https://careers.stryker.com/job/16637358/summer-internship-2023-software-engineering-california-san-jose-ca/" rel="nofollow">CA</a>, <a href="https://careers.stryker.com/job/16637360/summer-internship-2023-software-engineering-florida-fort-lauderdale-fl/" rel="nofollow">FL</a>, <a href="https://careers.stryker.com/job/16656756/summer-internship-2023-software-engineering-indiana-fort-wayne-in/" rel="nofollow">IN</a>, <a href="https://careers.stryker.com/job/16656757/summer-internship-2023-software-engineering-massachusetts-shirley-ma/" rel="nofollow">MA</a>, <a href="https://careers.stryker.com/job/16637357/summer-internship-2023-software-engineering-michigan-portage-mi/" rel="nofollow">MI</a>, <a href="https://careers.stryker.com/job/16637363/summer-internship-2023-electrical-engineering-washington-redmond-wa/" rel="nofollow">WA</a> |
+| 251 | <a href="https://dimensional.wd5.myworkdayjobs.com/en-US/DFA_Campus/job/Austin/Internship-in-Technology---Software-Engineer--Undergraduate---Master-s-_2022-6883" rel="nofollow">Dimensional Careers</a> | NULL | Software Engineering (Must be authorized to work in US) |
+| 252 | Labcorp | $145K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Developer Internship (2023 Global Internship Program) |
+| 253 | <a href="https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Englewood-CO/Software-Engineer-Intern--Summer-2023-_R0018868" rel="nofollow">Sierra Nevada Corporation</a> | NULL | Software Engineer Intern (Summer 2023) |
+| 254 | Sysco | $139K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Intern - Software Development Engineer (10 Week during Summer)（undergrad） |
+| 255 | DoorDash | $292K | Software Engineer Intern: <a href="https://boards.greenhouse.io/doordash/jobs/4560561?gh_jid=4560561" rel="nofollow">US Position</a>, <a href="https://boards.greenhouse.io/doordash/jobs/4560283?gh_jid=4560283" rel="nofollow">Toronto Position</a> |
+| 256 | <a href="https://careers.united.com/us/en/job/WHQ00020911/Intern-Digital-Technology-Summer-2023" rel="nofollow">United</a> | NULL | Digital Technology Intern (no sponsorship) |
+| 257 | Cornerstone | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineering Intern (Front end) |
+| 258 | Merck | $100K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> IT Emerging Talent Intern |
+| 259 | <a href="https://www.jamf.com/about/careers/jobs/?gh_jid=4666557004&amp;gh_jid=4666557004&amp;gh_src=8229fc8d4us" rel="nofollow">Jamf</a> | $103K | Software Engineering Intern |
+| 260 | Dish | NULL | <a href="https://jobs.dish.com/jobs/67284?lang=en-us" rel="nofollow">Application Engineering Intern</a>, <a href="https://jobs.dish.com/jobs/67257?lang=en-us" rel="nofollow">Application Development</a> |
+| 261 | <a href="https://synopsys.ongig.com/?q=intern" rel="nofollow">Synopsys</a> | $203K | <a href="https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&amp;partnerid=25235&amp;siteid=5359&amp;jobid=1977308#jobDetails=1977308_5359" rel="nofollow">ML Engineering intern</a>, <a href="https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25235&amp;siteid=5359&amp;PageType=JobDetails&amp;jobid=1977317#jobDetails=1977317_5359" rel="nofollow">C++ Engineering Intern</a>, <a href="https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&amp;partnerid=25235&amp;siteid=5359&amp;jobid=1977268#jobDetails=1977268_5359" rel="nofollow">IT intern</a> |
+| 262 | Booz Allen | NULL | Software Engineer in <a href="https://careers.boozallen.com/jobs/JobDetail/Charleston-Software-Developer-Intern-R0145621/62161?source=JB-16500" rel="nofollow">SC</a>, <a href="https://careers.boozallen.com/jobs/JobDetail/Annapolis-Junction-University-Software-Engineer-Intern-R0151116/65593?source=JB-16500" rel="nofollow">MD</a> |
+| 263 | McDonald's | $108K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Development Engineer |
+| 264 | BCG | $127K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Engineering Intern, Software Engineering |
+| 265 | <a href="https://c3.ai/job-description/?gh_jid=6289026002" rel="nofollow">C3.ai</a> | $173K | Software Engineer Intern |
+| 266 | <a href="https://www.weareroku.com/jobs/search?page=1&amp;query=&amp;country_codes%5B%5D=US&amp;string_field_1%5B%5D=Internships" rel="nofollow">Roku</a> | $310K | <a href="https://www.weareroku.com/jobs/software-engineer-intern-cloud-san-jose-california-united-states" rel="nofollow">Software Engineer Intern, Cloud</a>, <a href="https://www.weareroku.com/jobs/software-engineer-intern-web-san-jose-california-united-states-cabd1cba-0fd6-4dfa-979b-6781a4615cea" rel="nofollow">Software Engineer Intern, Web</a>, <a href="https://www.weareroku.com/jobs/software-engineer-intern-embedded-san-jose-california-united-states-80f80523-3868-45dd-a784-9177fc95447b" rel="nofollow">Software Engineer Intern, Embedded</a>,<a href="https://www.weareroku.com/jobs/software-engineer-intern-machine-learning-san-jose-california-united-states" rel="nofollow">Software Engineer Intern, ML</a> |
+| 267 | <a href="https://careers.google.com/jobs/results/97935383573996230/" rel="nofollow">Google</a> | $238K | <a href="https://careers.google.com/jobs/results/97935383573996230/" rel="nofollow">Software Engineer Intern (BS)</a>,  <a href="https://careers.google.com/jobs/results/112466529246683846/" rel="nofollow">Software Engineer Intern (MS)</a>, <a href="https://careers.google.com/jobs/results/106481573924086470-software-developer-intern-masters-summer-2023/?distance=50&amp;jex=ENTRY_LEVEL&amp;utm_campaign=google_jobs_apply&amp;utm_medium=organic&amp;utm_source=google_jobs_apply" rel="nofollow">Software Developer Intern (MS)</a>, <a href="https://careers.google.com/jobs/results/87534690770002630/" rel="nofollow">Software Engineer Intern (PhD)</a>, <a href="https://careers.google.com/jobs/results/97922120714986182/" rel="nofollow">User Experience Intern</a>, <a href="https://careers.google.com/jobs/results/118392690761966278/" rel="nofollow">Hardware Engineering Intern</a>, <a href="https://careers.google.com/jobs/results/107967258946347718/" rel="nofollow">Data Scientist Intern</a> |
+| 268 | <a href="https://campus.bankofamerica.com/careers/global_technology_summer_analyst_program__2023.html" rel="nofollow">Bank of America</a> | $122K | Software Engineer/Developer (Undergrad) |
+| 269 | Pearson | $150K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer Intern |
+| 270 | Toyota Connected | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer Intern, Data Engineer Intern, Data Scientist Intern, Machine Learning Engineer Intern |
+| 271 | <a href="https://careers.honeywell.com/us/en/job/req364416/Computer-Software-Engineer-Computer-Science-Summer-2023-Intern-Co-Op" rel="nofollow">Honeywell</a> | $96K | Software Engineer Intern (No Visa Sponsorship) |
+| 272 | <a href="https://parsons.wd5.myworkdayjobs.com/en-US/Search/job/US---CO-Colorado-Springs/Software-Engineer-Intern---Space-Systems--Summer-2023-_R132568" rel="nofollow">Parsons Corporation</a> | NULL | Software Engineer Intern - Space Systems (Summer 2023) (US Citizenship Required) |
+| 273 | <a href="https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Summer-2023-Data-Science---Engineering-Intern_R35671" rel="nofollow">Fifth Third Bank</a> | $144K | Summer 2023 Data Science &amp; Engineering Intern |
+| 274 | <a href="https://boards.greenhouse.io/knowbe4/jobs/5514774002" rel="nofollow">KnowBe4</a> | $185K | Software Development Engineer Intern (Front-End) (Remote) |
+| 275 | Flexport | $244K | 2023 Summer Full-Stack Software Engineering Intern: <a href="https://www.flexport.com/careers/job/4527122/" rel="nofollow">Undergraduate Degree</a>, <a href="https://www.flexport.com/careers/job/4500880/" rel="nofollow">Graduate Degree</a>, Data Analytics Intern: <a href="https://boards.greenhouse.io/flexport/jobs/4590148?gh_src=e6372a491us&amp;s=LinkedIn&amp;source=LinkedIn" rel="nofollow">Undergraduate Degree</a> |
+| 276 | Schonfeld | $200K | 2023 Software Engineering Summer Internship - <a href="https://boards.greenhouse.io/schonfeld/jobs/4510170" rel="nofollow">New York</a>, <a href="https://boards.greenhouse.io/schonfeld/jobs/4510454" rel="nofollow">Miami</a> |
+| 277 | <a href="https://jobs.lever.co/spreetail?commitment=Intern" rel="nofollow">Spreetail</a> | $132K | Software Engineer Intern - <a href="https://jobs.lever.co/spreetail/6ca36154-e412-403f-9894-8731697bd1eb" rel="nofollow">Marketplace Platform</a>, <a href="https://jobs.lever.co/spreetail/a61ac2d5-1f9b-4c0d-b869-17817c7d8b5e" rel="nofollow">Supply Chain Platform</a>; <a href="https://jobs.lever.co/spreetail/9d672bbf-9e46-42d9-bfe4-fc479489907f" rel="nofollow">Devops Intern</a> |
+| 278 | <a href="https://www.tanium.com/careers/4512774" rel="nofollow">Tanium</a> | $284K | Software Engineering Intern (Summer 2023) |
+| 279 | <a href="https://careers-uipath.icims.com/jobs/search?ss=1&amp;searchRelation=keyword_all&amp;searchPositionType=8710" rel="nofollow">UiPath</a> | $250K | Summer 2023 Intern: Software Engineer @ <a href="https://careers-uipath.icims.com/jobs/4797/summer-2023-intern%3a-software-engineer/job?in_iframe=1" rel="nofollow">Dallas, TX</a> or <a href="https://careers-uipath.icims.com/jobs/4794/summer-2023-intern%3a-software-engineer/job?in_iframe=1" rel="nofollow">Denver, CO</a> or <a href="https://careers-uipath.icims.com/jobs/4787/summer-2023-intern%3a-software-engineer/job?in_iframe=1" rel="nofollow">Bellevue, WA</a> |
+| 280 | <a href="https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/San-Diego-USA/Software-Engineering-Internship---Summer-2023_3042986" rel="nofollow">Qualcomm</a> | $204K | Software Engineering Internship - Summer 2023 |
+| 281 | <a href="https://careers.guidewire.com/job/76acec73-8be6-5e85-992c-6f4afca84434" rel="nofollow">Guidewire</a> | NULL | Summer 2023 Software Engineering Intern - Multiple Locations |
+| 282 | <a href="https://boards.greenhouse.io/8451university" rel="nofollow">84.51°</a> | NULL | Software Engineer - Internship Program 2023 |
+| 283 | <a href="https://app.ripplematch.com/job/Akamai/c41ee243/" rel="nofollow">Akamai</a> | $194K | Software Engineer Intern |
+| 284 | Amplitude | $285K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer Intern |
+| 285 | <a href="https://app.ripplematch.com/job/Appian/66c4ef95/" rel="nofollow">Appian</a> | $150K | Software Engineer Intern |
+| 286 | Belden | LOCK | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> R&amp;D Software Technical Internship Program |
+| 287 | <a href="https://app.ripplematch.com/job/DraftKings/729234b8/" rel="nofollow">DraftKings</a> | $156K | Software Engineering Intern |
+| 288 | <a href="https://app.ripplematch.com/job/Ginkgo_Bioworks/a3363831/" rel="nofollow">Ginkgo Bioworks</a> | $130K | Software Engineering Intern |
+| 289 | <a href="https://careers.huntingtoningalls.com/job/Newport-News-IT-INTERN-Virg/931374600/" rel="nofollow">Huntington Ingalls Industries</a> | $85K | IT intern, <a href="https://careers.huntingtoningalls.com/job/Newport-News-ENGRG-INTERN-Virg/931373000/" rel="nofollow">Engineering Internship</a> |
+| 290 | <a href="https://nutanix.eightfold.ai/careers?query=software%20intern&amp;pid=13280687&amp;domain=nutanix.com" rel="nofollow">Nutanix</a> | $215K | Software Defined Network Engineering Intern, Database Engineering Intern, Hybrid Cloud Engineering Intern, and other various SWE roles |
+| 291 | <a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/en-US/Oshkosh/job/Oshkosh-Wisconsin-United-States/Computer-Software-Engineering-Intern--Summer-2023-_R14666" rel="nofollow">Oshkosh Corporation</a> | NULL | Software Engineering Intern |
+| 292 | <a href="https://www.paylocity.com/careers/career-opportunities/early-career/?jobId=14173/" rel="nofollow">Paylocity</a> | $160K | <a href="https://www.paylocity.com/careers/career-opportunities/early-career/?jobId=14171" rel="nofollow">Data Science internship</a> |
+| 293 | <a href="https://careers.snowflake.com/us/en/job/6397516002?gh_jid=6397516002" rel="nofollow">Snowflake</a> | $350K | Software Engineer Intern (Core/Database Engineering) - Summer 2023 |
+| 294 | <a href="https://trimblecareers.trimble.com/careers/job?domain=trimble.com&amp;query=Software%20Engineering%20Intern&amp;pid=171812012551" rel="nofollow">Trimble</a> | $102K | Software Engineering Internship |
+| 295 | <a href="https://app.ripplematch.com/job/Unity/3d2aa3d4/" rel="nofollow">Unity</a> | LOCK | <a href="https://app.ripplematch.com/job/Unity/3d2aa3d4/" rel="nofollow">Software Engineer Intern</a> |
+| 296 | <a href="https://jobs.lever.co/zoox" rel="nofollow">Zoox</a> | $212K | Summer 2023 Software Engineering Internships - <a href="https://jobs.lever.co/zoox/73ba40c9-48bd-4f34-9eb5-b56d41a74a7d" rel="nofollow">Mobile Development</a>, <a href="https://jobs.lever.co/zoox/c84006b4-0e77-4362-8cfe-5f8b82b8b347" rel="nofollow">Robot Software Infrastructure</a> |
+| 297 | Autodesk | $197K | <a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Intern--Software-Engineer_22WD64165-1?src=JB-10065" rel="nofollow">Intern, Software Engineer @ Remote</a>; <a href="https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/San-Francisco-CA-USA/Intern--Software-Engineer--AWS-Cost-Analytics_22WD63962-2" rel="nofollow">Intern, Software Engineer, AWS Cost Analytics @ San Francisco, CA</a> |
+| 298 | <a href="https://uscareers-idemia.icims.com/jobs/5382/software-development-internship/job" rel="nofollow">IDEMIA</a> | $80K | Software Development Internship (US Citizenship Required; No Sponsorship) |
+| 299 | <a href="https://tripactions.com/job-openings/4488671?gh_jid=4488671&amp;gh_src=b13de4e21" rel="nofollow">TripActions</a> | $114K | Software Engineering Internship |
+| 300 | <a href="https://careers.cyberark.com/go/Students-&amp;-Interns/5412401/" rel="nofollow">CyberArk</a> | $155K | Software Engineer Intern |
+| 301 | <a href="https://about.nextdoor.com/careers/#openings" rel="nofollow">Nextdoor</a> | $209K | Summer 2023 Software Engineer Intern |
+| 302 | <a href="https://jobs.lever.co/reliable/90367300-93c0-4b0f-8893-13ebd4af326d" rel="nofollow">Reliable Robotics</a> | NULL | Flight Software Engineer Intern |
+| 303 | <a href="https://ats.comparably.com/api/v1/gh/gomotive/jobs/6379265002" rel="nofollow">Motive</a> | NULL | Software Engineering Intern, Summer 2023 |
+| 304 | <a href="https://frbog.taleo.net/careersection/1/jobdetail.ftl?job=23293&amp;lang=en" rel="nofollow">Federal Reserve Board</a> | $100K | Software Developer Summer Intern -23293 |
+| 305 | <a href="https://careers.ancestry.com/jobs/search/internships-search-page" rel="nofollow">Ancestry</a> | $184K | <a href="https://careers.ancestry.com/jobs/android-engineer-summer-intern-hybrid-remote-office-based-lehi-utah-united-states" rel="nofollow">Android Engineer, Summer Intern</a>; <a href="https://careers.ancestry.com/jobs/ios-engineer-summer-intern-hybrid-remote-office-based-lehi-utah-united-states" rel="nofollow">iOS Engineer, Summer Intern</a>; <a href="https://careers.ancestry.com/jobs/data-science-cv-nlp-summer-intern-hybrid-remote-office-based-lehi-utah-united-states" rel="nofollow">Data Science, Summer Intern</a> |
+| 306 | <a href="https://jobs.lever.co/crusoeenergy/16d9dc19-74a5-4c32-9ead-e3e221f4eaca" rel="nofollow">Crusoe</a> | LOCK | University / Software Engineer (Intern) |
+| 307 | <a href="https://careers.fcsamerica.com/job/16636430/" rel="nofollow">Farm Credit Services of America</a> | NULL | Web Software Systems Engineer (Intern Summer 2023) |
+| 308 | <a href="https://careers.rtx.com/global/en/job/RAYTGLOBAL01567022EXTERNALENGLOBAL/UP-2023-Software-Engineer-Internships" rel="nofollow">Raytheon</a> | $102K | UP 2023 Software Engineer Internships (US Citizenship Required) |
+| 309 | <a href="https://jobs.lumen.com/global/en/university-entry-level" rel="nofollow">Lumen</a> | $80K | <a href="https://jobs.lumen.com/global/en/job/317271/Intern-Software-Engineer-Summer-2023" rel="nofollow">Intern - Software Engineer - Summer 2023 Nationwide / Remote</a>, <a href="https://jobs.lumen.com/global/en/job/318304/Intern-Data-Scientist-Summer-2023-Nationwide-Remote?job" rel="nofollow">Intern - Data Scientist</a> |
+| 310 | Remitly | $285K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Development Intern - Summer 2023 |
+| 311 | <a href="https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1115787" rel="nofollow">Textron</a> | $68K | 2023 Intern - Software Engineer (Air) (US Citizenship Required) |
+| 312 | Live Oak Bank | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer Intern |
+| 313 | Meta | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer Internship/Co-Op |
+| 314 | Ramp | $380K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer Internship - Backend |
+| 315 | <a href="https://www.ycombinator.com/companies/whatnot/jobs/Nh9mltA-software-engineering-intern-summer-2022" rel="nofollow">Whatnot</a> | $195K | Software Engineering Intern |
+| 316 | <a href="https://pattern.breezy.hr/p/47c24165e033-internship-software-engineering" rel="nofollow">Pattern</a> | LOCK | Software Engineering Internship |
+| 317 | Disney | $193K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Web Development and Digital Production Internship |
+| 318 | Gulfstream | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software, Automation, Applications &amp; Data Systems Intern |
+| 319 | <a href="https://jobs.amd.com/job/Austin-Summer-2023-Advanced-Technology-Validation-Co-OpIntern-Texa/937443400/" rel="nofollow">Advanced Micro Devices(AMD)</a> | NULL | Advanced Technology Validation Co-Op/intern. Software(Python/Perl,SQL) + Hardware(semiconductor theory) |
+| 320 | <a href="https://jobs.ravenind.com/job/Sioux-Falls-Software-Engineer-Intern-%28Summer%29-SD-57104-5931/934151400" rel="nofollow">Raven Industries</a> | $107K | Software Engineer Intern (Summer) |
+| 321 | <a href="https://jobs.lever.co/vailsys?commitment=Internship" rel="nofollow">Vail Systems</a> | LOCK | <a href="https://jobs.lever.co/vailsys/98edbcac-8756-432e-8aa5-47c36c099b19" rel="nofollow">C++ Software Engineer Intern (Summer 2023)</a>, <a href="https://jobs.lever.co/vailsys/39332d76-6599-44af-9481-e7f9162d1ad1/" rel="nofollow">Web Software Engineer Intern (Summer 2023)</a> |
+| 322 | <a href="https://jobs.aptiv.com/job/-/-/29739/38255977376" rel="nofollow">Aptiv</a> | $106K | Software Engineering Intern (No Sponsorship) |
+| 323 | Airbnb | $445K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> 2023 Software Engineer Intern (No Sponsorship) |
+| 324 | <a href="https://careers.jacobs.com/job-search-results/?job_type%5B%5D=Internship" rel="nofollow">Jacobs</a> | $105K | <a href="https://careers.jacobs.com/job/15934465/software-intern-co-op-hudson-nh/" rel="nofollow">Software Intern Co-op (US Citizens Only) (Undergrad)</a> |
+| 325 | <a href="https://jobs.netflix.com/search?team=Internship" rel="nofollow">Netflix</a> | $500K | <a href="https://jobs.netflix.com/jobs/234866639" rel="nofollow">Software Engineer Intern</a>, <a href="https://jobs.netflix.com/jobs/232791459" rel="nofollow">Security Engineering Intern</a>, <a href="https://jobs.netflix.com/jobs/234882269" rel="nofollow">Machine Learning Intern</a>, <a href="https://jobs.netflix.com/jobs/237559138" rel="nofollow">Data Engineering Intern</a> |
+| 326 | <a href="https://app.ripplematch.com/job/alteryx/8c645069/?from_page=company_branded_page&amp;" rel="nofollow">Alteryx</a> | $171K | Data Analyst Intern (No Visa Sponsorship) |
+| 327 | TuSimple | $187K | <a href="https://boards.greenhouse.io/tusimpleinternship/jobs/6399552002" rel="nofollow">Software Engineer Internship - General</a>, <a href="https://boards.greenhouse.io/tusimpleinternship/jobs/6399769002" rel="nofollow">Software Engineer Internship - Full Stack</a>, <a href="https://boards.greenhouse.io/tusimpleinternship/jobs/6403722002" rel="nofollow">Software Engineer Intern - GPU</a>, <a href="https://boards.greenhouse.io/tusimpleinternship/jobs/6399754002" rel="nofollow">Software Engineer Intern C++</a>, <a href="https://boards.greenhouse.io/tusimpleinternship/jobs/6398976002" rel="nofollow">Machine Learning Engineer Internship</a> |
+| 328 | <a href="https://careers.blizzard.com/global/en/search-results" rel="nofollow">Blizzard</a> | NULL | <a href="https://careers.blizzard.com/global/en/job/R017329/Software-Engineering-Internship" rel="nofollow">Software Engineering Internship</a> ,<a href="https://careers.blizzard.com/global/en/job/R017870/UI-UX-Design-Internship" rel="nofollow">UI/UX Intern</a>, <a href="https://careers.blizzard.com/global/en/job/R017324/Analytics-Internship" rel="nofollow">Analytics Internship</a> |
+| 329 | <a href="https://www.award.co/careers" rel="nofollow">Awardco</a> | LOCK | (<strong>No Visa Sponsorship available</strong>) Front-End SWE Intern (Vue and JavaScript), Back-End SWE Intern (C# and .NET Framework), <a href="https://award.co/position?gh_jid=4323618004" rel="nofollow">SWE Test Intern (Cypress and JavaScript)</a> |
+| 330 | <a href="https://www.ziprecruiter.com/careers" rel="nofollow">ZipRecruiter</a> | $201K | <a href="https://www.ziprecruiter.com/c/ZipRecruiter/Job/Data-Scientist-Machine-Learning-Engineer-Intern/-in-Santa-Monica,CA?jid=734d6c38e2b352bc" rel="nofollow">Data Scientist / Machine Learning Engineer - Intern</a>, <a href="https://www.ziprecruiter.com/c/ZipRecruiter/Job/Software-Engineer-Intern/-in-Santa-Monica,CA?jid=f331da90344f3100" rel="nofollow">Software Engineer Intern</a> |
+| 331 | <a href="https://www.squarespace.com/careers/jobs/4541564" rel="nofollow">Squarespace</a> | $213K | Software Engineer Internship - Summer 2023 |
+| 332 | <a href="https://careers.carmax.com/us/en/job/JR-102006/Technology-Intern-Richmond-VA-Dallas-TX" rel="nofollow">CarMax</a> | $131K | Technology Intern (No Visa Sponsorship) |
+| 333 | <a href="https://mckesson.wd3.myworkdayjobs.com/en-US/Acquisition_campus/details/Software-Engineer-Intern_JR0073489" rel="nofollow">McKesson</a> | $144K | Software Engineer Intern (No Visa Sponsorship) |
+| 334 | EY | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Technology Consulting Intern: (Must be US citizen and obtain clearances) |
+| 335 | <a href="https://boards.greenhouse.io/argo/jobs/4586991" rel="nofollow">Argo AI</a> | $259K | Software Engineer Intern |
+| 336 | <a href="https://careers.walmart.com/us/jobs/WD1115596-usa-2023-summer-intern-software-engineer-ii" rel="nofollow">Walmart</a> | $155K | Software Engineer Intern (No Visa Sponsorship) |
+| 337 | Skydio | $200K | SWE <a href="https://boards.greenhouse.io/skydio/jobs/4713863003" rel="nofollow">(embedded)</a>, SWE <a href="https://boards.greenhouse.io/skydio/jobs/4734527003" rel="nofollow">(full stack)</a>, SWE <a href="https://boards.greenhouse.io/skydio/jobs/4734539003" rel="nofollow">(mobile)</a> |
+| 338 | <a href="https://cadence.wd1.myworkdayjobs.com/Univ_Careers/2/refreshFacet/318c8bb6f553100021d223d9780d30be" rel="nofollow">Cadence</a> | NULL | Varied Software/Design Engineer/Application Engineer Positions |
+| 339 | <a href="https://careers.activision.com/internship-program?s=1&amp;rk=l-emergingtalentprogram" rel="nofollow">Activision</a> | $136K | <a href="https://careers.activision.com/job/R017329/Software-Engineering-Internship" rel="nofollow">Software Engineering Internship</a>, <a href="https://careers.activision.com/job/R017330/UI-UX-Design-Internship" rel="nofollow">UI/UX Internship</a>, <a href="https://careers.activision.com/job/R017325/Computer-Graphics-Internship" rel="nofollow">Computer Graphics Internship</a>, <a href="https://careers.activision.com/job/R017324/Analytics-Internship" rel="nofollow">Analytics Internship</a> |
+| 340 | <a href="https://www.arista.com/en/careers/university/engineering-internship" rel="nofollow">Arista</a> | NULL | Software Engineer Intern (undergrad) |
+| 341 | <a href="https://careers.expediagroup.com/jobs/?filter%5Bcategory%5D=&amp;filter%5Bcountry%5D=&amp;filter%5Bstate%5D=&amp;filter%5Bcity%5D=" rel="nofollow">Expedia Group</a> | NULL | <a href="https://careers.expediagroup.com/jobs/?keyword=2023+Intern+-+Software+Development+Engineer+%28all+stacks%29&amp;&amp;filter%5Bcountry%5D=United+States" rel="nofollow">Software Development Engineer Intern (all stacks)</a>, <a href="https://careers.expediagroup.com/jobs/job/?2023+Intern+-+Data+Science%2C+Analytics-Seattle-Washington-j-R-76535" rel="nofollow">Intern - Data Science, Analytics</a> |
+| 342 | <a href="https://clever.com/about/careers/detail?gh_jid=4525415&amp;gh_src=cfcca5b51us" rel="nofollow">Clever</a> | $161K | Software Engineering - Intern |
+| 343 | <a href="https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Software-Developer-Intern-Co-Op-1_R-718979" rel="nofollow">State Street</a> | $140K | Software Developer Intern |
+| 344 | <a href="https://careers.rbi.com/global/en/job/6262468002/2023-Technical-Development-Program-Summer-Internship-TDP-Software-Engineering-Toronto" rel="nofollow">Restaurant Brands International</a> | $138K | 2023 Technical Development Program Summer Internship (TDP), Software Engineering |
+| 345 | <a href="https://ea.gr8people.com/jobs/175733/software-engineer-intern-summer-2023" rel="nofollow">Electronic Arts (EA)</a> | NULL | Software Engineering - Intern |
+| 346 | Northwestern Mutual | $108K | <a href="https://careers.northwesternmutual.com/corporate-careers/job/software-engineering-internship-summer-2023-milwaukee-wi-corporate-jr-35891" rel="nofollow">Software Engineering Internship (No Sponsorship)</a>, <a href="https://careers.northwesternmutual.com/corporate-careers/job/data-science-analytics-internship-summer-2023-milwaukee-wi-corporate-jr-35887/" rel="nofollow">Data Science &amp; Analytics Internship (No Sponsorship)</a> |
+| 347 | r2c | LOCK | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer - Internship, Application Development |
+| 348 | <a href="https://www.excelitas.com/job/2022-10/software-engineering-intern" rel="nofollow">Excelitas</a> | NULL | Software Engineering Intern (No Visa Sponsorship) |
+| 349 | <a href="https://careers.teradata.com/jobs/215587/cloud-software-engineering-intern" rel="nofollow">Teradata</a> | $142K | Cloud Software Engineering Intern （undergrad） |
+| 350 | <a href="https://jobs.jobvite.com/careers/the-climate-corporation/job/otfWkfwI?__jvst=Job%20Board&amp;__jvsd=LinkedIn" rel="nofollow">Climate</a> | NULL | Software Engineering Intern |
+| 351 | <a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/US---MA---Westborough/Software-Engineering-Intern_2202008?src=SNS-102&amp;source=LinkedIn" rel="nofollow">Marvell</a> | $254K | Software Engineering Intern |
+| 352 | <a href="https://careers.anthology.com/jobs/10568475-software-engineering-intern" rel="nofollow">Anthology Inc</a> | NULL | Software Engineering Intern (Not available for residents of CO, CA, MA) |
+| 353 | <a href="https://jobs.lever.co/klue/b88e45c3-c067-410b-a7d3-ca23142b9bef" rel="nofollow">klue</a> | LOCK | Data Analyst Intern |
+| 354 | <a href="https://careers-linkindustrialfields.icims.com/jobs/search?ss=1&amp;searchPositionType=18701" rel="nofollow">LINK</a> | NULL | <a href="https://careers-linkindustrialfields.icims.com/jobs/4450/data-analyst-intern-2023/job" rel="nofollow">Data Analyst Intern (undergrad)</a>, <a href="https://careers-linkindustrialfields.icims.com/jobs/4459/computer-engineering-summer-intern-2023/job" rel="nofollow">Computer Engineering Intern (undergrad)</a>, <a href="https://careers-linkindustrialfields.icims.com/jobs/4602/data-science-intern%2c-research-%26-analytics-2023/job" rel="nofollow">Data Science Intern Research &amp; Analytics</a> |
+| 355 | <a href="https://www.hashicorp.com/job/4583591" rel="nofollow">Hashicorp</a> | $200K | Software Engineering Intern |
+| 356 | CSG | $100K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer Intern - C# |
+| 357 | <a href="https://jobs.jobvite.com/achieve/job/ohVclfwt" rel="nofollow">Achieve</a> | NULL | Intern, Software Development |
+| 358 | <a href="https://uscareers-lennox.icims.com/jobs/34333/software-engineer-intern---summer-2023/job" rel="nofollow">Lennox International</a> | LOCK | Software Engineer Intern - Summer 2023 |
+| 359 | <a href="https://jobs.lever.co/tackle/379afe16-73ce-4eff-8b73-d3801f5a26fc" rel="nofollow">Tackle.io</a> | LOCK | Software Engineer- Summer Associate |
+| 360 | AT&amp;T | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> EDGE Internship Program 2023 (No Visa Sponsorship) |
+| 361 | Khan Academy | $143K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer Intern |
+| 362 | SoFi | $250K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Intern, Software Engineer |
+| 363 | Delta | NULL | <a href="https://delta.avature.net/careers/JobDetail/Intern-Software-Engineering-Summer-2023/17376" rel="nofollow">Software Engineer Intern</a>, <a href="https://delta.avature.net/careers/JobDetail/Intern-IT-Operations-Research-Data-Science-Summer-2023/17381" rel="nofollow">Data Science Intern</a>, <a href="https://delta.avature.net/careers/JobDetail/Intern-Revenue-Technology-Data-Analytics-Summer-2023/17650" rel="nofollow">Data Analytics Intern</a> |
+| 364 | <a href="https://jobs.intuit.com/search-jobs?orgIds=27595&amp;acm=ALL&amp;ascf=%5B%7B%22key%22:%22custom_fields.ChimpJob%22,%22value%22:%22Mailchimp%22%7D%5D" rel="nofollow">Mailchimp</a> | $180K | Product Manager Intern, Data Science Intern, Software Intern (Filter by "Student Interns &amp; Entry-level Careers") |
+| 365 | <a href="https://www.vectra.ai/about/jobs" rel="nofollow">Vectra</a> | NULL | <a href="https://www.vectra.ai/about/jobs?gh_jid=4534120" rel="nofollow">Data Engineering Internship</a>, <a href="https://www.vectra.ai/about/jobs?gh_jid=4534154" rel="nofollow">Data Science Internship</a>, <a href="https://www.vectra.ai/about/jobs?gh_jid=4514511" rel="nofollow">Software Engineering Internship</a> |
+| 366 | LaunchDarkly | $190K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Backend Engineering Intern, Internal Tools, Data Engineering Intern, Data Scientist Intern |
+| 367 | <a href="https://www.invoca.com/company/job-listings?gh_jid=6101463002" rel="nofollow">Invoca</a> | LOCK | Data Science Internship |
+| 368 | <a href="https://app.ripplematch.com/job/ebay/b82bd209/" rel="nofollow">ebay</a> | $202K | Software Engineering Intern |
+| 369 | <a href="https://www.hioscar.com/careers/4593272" rel="nofollow">Oscar Health</a> | $244K | Software Engineering Intern 2023 |
+| 370 | <a href="https://jobs.lever.co/wisk/4d2f1a07-8f6e-4243-ad2d-ebea17e390a9" rel="nofollow">Wisk</a> | $248K | Software Engineer Intern - Full Stack |
+| 371 | <a href="https://nuance.wd1.myworkdayjobs.com/en-US/Nuance/job/Burlington-Massachusetts-US/Software-Development-Intern_106794" rel="nofollow">Nuance</a> | NULL | Software Development Intern |
+| 372 | <a href="https://jobs.libertymutualgroup.com/job/16486203/2023-techstart-summer-internship-program-portsmouth-nh/?mode=job" rel="nofollow">Liberty Mutual</a> | $125K | TechStart Internship Program 2023 |
+| 373 | <a href="https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Virtual-Office/Summer-Intern---Application-Development---Technology_23755R" rel="nofollow">Vizient</a> | LOCK | Summer Intern - Application Development &amp; Technology |
+| 374 | DISCO | $185K | Software Engineer Intern @ <a href="https://www.csdisco.com/careers/software-engineer-intern-c" rel="nofollow">New York City, NY</a>, <a href="https://www.csdisco.com/careers/software-engineer-intern-6" rel="nofollow">Austin, TX</a> required to provide proof of eligibility to work in the United States without restrictions |
+| 375 | <a href="https://boards.greenhouse.io/snackpasspt/jobs/4658696004" rel="nofollow">Snackpass</a> | NULL | Internship - Software Engineering (no sponsorship) |
+| 376 | <a href="https://www.tesla.com/careers/search/job/software-engineering-internship-summer-2023-153316" rel="nofollow">Tesla</a> | $200K | Software Engineering Internship |
+| 377 | Spectrum | $135K | <a href="https://jobs.spectrum.com/job/greenwood-village/2023-summer-intern-software-engineer/4673/37073255520" rel="nofollow">Software Engineering Intern</a>, <a href="https://jobs.spectrum.com/job/charlotte/2023-summer-intern-information-technology/4673/36113961104" rel="nofollow">Information Technology Intern</a> |
+| 378 | Coca-Cola | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Information Technology Intern |
+| 379 | <a href="https://careers.opentext.com/job/Richmond-Hill-Internship-Localization-QA-Specialist-ON/563481917/?feedId=319217&amp;utm_source=LinkedInJobPostings&amp;source=LinkedIn?utm_source=LinkedInJobPostings&amp;utm_campaign=Linked" rel="nofollow">OpenText</a> | $108K | Localization QA Specialist Intern |
+| 380 | <a href="https://phg.tbe.taleo.net/phg03/ats/careers/v2/viewRequisition?org=OMNICELL&amp;cws=40&amp;rid=16762&amp;source=LinkedIn&amp;src=LinkedIn&amp;gns=LinkedIn" rel="nofollow">Omnicell</a> | $133K | Software Engineering Intern (no sponsorship) |
+| 381 | <a href="https://boards.greenhouse.io/patreon/jobs/4606412" rel="nofollow">Patreon</a> | $280K | Software Engineering Intern (Hybrid) |
+| 382 | Grafana Labs | NULL | <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji>) |
+| 383 | <a href="https://boards.greenhouse.io/creditkarma/jobs/4431522003" rel="nofollow">Credit Karma</a> | $244K | Software Engineering Intern (Summer 2023) |
+| 384 | <a href="https://waymo.com/careers/#software-internships" rel="nofollow">Waymo</a> | $360K | <a href="https://waymo.com/joinus/4605014/" rel="nofollow">Software Engineering Intern, Generalist</a>, Data Science, Infrastructure, etc. positions also available |
+| 385 | Robinhood | $359K | <a href="https://app.ripplematch.com/job/robinhood/e93c5366?from_page=company_branded_page&amp;" rel="nofollow">Android Engineer Intern</a>, <a href="https://app.ripplematch.com/job/robinhood/b16b1136?from_page=company_branded_page&amp;" rel="nofollow">Backend Engineer Intern</a>, <a href="https://app.ripplematch.com/job/robinhood/55eaa246?from_page=company_branded_page&amp;" rel="nofollow">iOS Engineer Intern</a>, <a href="https://app.ripplematch.com/job/robinhood/7fc0158a?from_page=company_branded_page&amp;" rel="nofollow">Web Engineer Intern</a> |
+| 386 | Lattice | $207K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer, Intern (Summer '23) |
+| 387 | <a href="https://careers.bain.com/jobs/FolderDetail?folderId=67698" rel="nofollow">Bain &amp; Company</a> | NULL | Intern, Global Engineering (Summer 2023) |
+| 388 | Addepar | $218K | <a href="https://boards.greenhouse.io/addepar1/jobs/6411982002?gh_src=31a4a9852" rel="nofollow">Software Engineer Intern, Frontend - Summer 2023</a>, <a href="https://boards.greenhouse.io/addepar1/jobs/6390282002?t=31a4a9852" rel="nofollow">Software Engineer Intern, Backend - Summer 2023</a> |
+| 389 | Ambi Robotics | NULL | <a href="https://jobs.lever.co/ambirobotics/849d7ae7-67b8-471c-ae1a-ef9beedff270" rel="nofollow">ML SWE Intern (BS)</a>, <a href="https://jobs.lever.co/ambirobotics/948c66a2-2886-49bf-a9fa-2d1fad7ad678" rel="nofollow">Robotics SWE Intern (BS)</a>, <a href="https://jobs.lever.co/ambirobotics/2480fb89-7575-46cb-80d9-3c7a4faaf8f6" rel="nofollow">Simulation SWE Intern (BS)</a>, <a href="https://jobs.lever.co/ambirobotics/0051f9b6-c9c4-48fc-a50d-de303e696fe2" rel="nofollow">Product Management Intern (BS)</a>, <a href="https://jobs.lever.co/ambirobotics/cfebc000-96e7-4c85-8b9a-47a9b23329c9" rel="nofollow">ML SWE Intern (MS)</a>, <a href="https://jobs.lever.co/ambirobotics/7e2fb44b-b935-4eec-9f7e-cad8acdd1f1d" rel="nofollow">Robotics SWE Intern (MS)</a> |
+| 390 | <a href="https://recruiting2.ultipro.com/TAN1005TDCI/JobBoard/7c56fc7c-1edd-48ec-939c-10225b1f3df1/OpportunityDetail?opportunityId=ce8b18a0-62f9-45ef-93ef-1dffeaebe12b" rel="nofollow">Tandem Diabetes Care</a> | $148K | Software Engineering Intern - Summer 2023 |
+| 391 | Aurora | $330K | Software Engineering Intern - Back-End (<strong>No Sponsorship</strong>): <a href="https://aurora.tech/jobs/software-engineering-intern-back-end-c-6428595002" rel="nofollow">C++</a>, <a href="https://aurora.tech/jobs/software-engineering-intern-back-end-python-6427680002" rel="nofollow">Python</a> |
+| 392 | <a href="https://careers.cargill.com/job/-/-/23251/34538432160" rel="nofollow">Cargill</a> | $50K | Software Engineering Intern 2023 (No Sponsorship) |
+| 393 | Ibotta | $135K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer Intern |
+| 394 | <a href="https://jobs.nscorp.com/job/Atlanta-Fullstack-Application-Development-Intern-2023-GA-30308/945936900/" rel="nofollow">Norfolk Southern Corp.</a> | NULL | Fullstack Application Development Intern 2023 |
+| 395 | Johnson Controls | $125K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineering Intern |
+| 396 | Lenovo | $140K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Frontend Development Intern, QA Automation Intern |
+| 397 | Zendesk | $188K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> 2023 Summer Intern - Software Engineering |
+| 398 | Intapp | LOCK | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer Intern |
+| 399 | <a href="https://jobs.entergy.com/job/New-Orleans-Student%2C-Intern-Software-Engineer-%28Summer-2023%29-Loui/945880900/" rel="nofollow">Entergy</a> | NULL | Intern - Software Engineer (Summer 2023) (No Visa Sponsorship) |
+| 400 | <a href="https://us63.dayforcehcm.com/CandidatePortal/en-US/prometric/Posting/View/34348" rel="nofollow">Prometric</a> | NULL | 2023 Software Development Summer Intern |
+| 401 | <a href="https://www.wayfair.com/careers/jobs?countryIds=1&amp;selectedJobTypeIds=8%2C5&amp;gh_src=" rel="nofollow">Wayfair</a> | $230K | <a href="https://www.wayfair.com/careers/job/software-engineering-internship---summer-----/6359307002?gh_src=" rel="nofollow">Software Engineering Intern</a>, <a href="https://www.wayfair.com/careers/job/data-science---machine-learning-intern---summer-----/6373711002?gh_src=" rel="nofollow">Data Science &amp; Machine Learning Intern</a> |
+| 402 | <a href="https://modernatx.eightfold.ai/careers/?query=Software%20Engineer%20Intern&amp;seniority=Intern" rel="nofollow">Moderna</a> | LOCK | 2023 Co-op and/or Intern, Software Engineer (No sponsorship) |
+| 403 | <a href="https://careers.nintendo.com/job-openings/" rel="nofollow">Nintendo</a> | $122K | <a href="https://careers.nintendo.com/job-openings/listing/22000000DA.html?src=CWS-10000" rel="nofollow">Intern - IT Software Engineer</a>,   <a href="https://careers.nintendo.com/job-openings/listing/22000000CR.html?src=CWS-10000" rel="nofollow">Intern - IT Network</a>, <a href="https://careers.nintendo.com/job-openings/listing/22000000CU.html?src=CWS-10000" rel="nofollow">Intern - IT SaaS Hosting</a>,   <a href="https://careers.nintendo.com/job-openings/listing/22000000CV.html?src=CWS-10000" rel="nofollow">Intern - IT Platform Engineer</a> (US Work Authorization Required) |
+| 404 | <a href="https://veritas.wd1.myworkdayjobs.com/careers/job/Roseville-MN/Software-Engineer-Intern--Summer-2023_60440" rel="nofollow">Veritas</a> | NULL | Software Engineer Intern- Summer 2023 |
+| 405 | <a href="https://careers-bluehalo.icims.com/jobs/3603/software-engineering-intern/job" rel="nofollow">BlueHalo</a> | $99K | Software Engineering Intern (US Citizenship Required) |
+| 406 | Starburst | LOCK | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer - Intern |
+| 407 | <a href="https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/Engineering-Intern-Undergraduate-Level---Summer-2023_JR27264" rel="nofollow">Elevance Health</a> | LOCK | Engineering Intern Undergraduate Level – Summer 2023 (No Sponsorship) |
+| 408 | <a href="https://jobs.lever.co/certik/d4bdf6fa-f885-476a-9b4f-538b874e2d36" rel="nofollow">Certik</a> | $151K | Internship Spring/Summer 2023 - Software Engineer, Tools |
+| 409 | <a href="https://jobs.comcast.com/jobs/description/regular?external_or_internal=External&amp;job_id=R347647" rel="nofollow">Comcast</a> | $130K | CCIP Intern: Software Engineering (Data) (No Sponsorship) |
+| 410 | Equinix | $184K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer Intern |
+| 411 | <a href="https://nordsonhcm.wd5.myworkdayjobs.com/nordsoncareers/job/USA---Rhode-Island---East-Providence/Software-Engineering-Intern_REQ31856" rel="nofollow">Nordson</a> | NULL | Software Engineering Intern |
+| 412 | Blue Origin | $152K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Summer 2023: Undergraduate Engineering Intern (US Citizenship/Green Card Required) - Avionics Software, Product Management |
+| 413 | Open Systems Technologies | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Developer Intern |
+| 414 | <a href="https://jobs.hp.com/jobdetails/14474549/applications-software-engineering-summer-internship-spring-tx/" rel="nofollow">HP</a> | NULL | Applications Software Engineering Summer Internship |
+| 415 | <a href="https://www.gemini.com/jobs/job_id?gh_jid=4615629" rel="nofollow">Gemini</a> | $198K | Intern, Software Engineer |
+| 416 | <a href="https://careers-gdms.icims.com/jobs/57649/job" rel="nofollow">General Dynamics Mission Systems</a> | $100K | Software Engineering Intern (US Citizenship Required) |
+| 417 | OneWeb | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Development Intern |
+| 418 | X - The Moonshot Factory | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> SWE Intern: Mapping &amp; Localization, Services |
+| 419 | Resideo | $125K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Intern |
+| 420 | Cigna | $127K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Development Summer Intern (No Sponsorship) |
+| 421 | Brilliant | LOCK | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Backend Server Engineering Intern (Summer 2023) |
+| 422 | Seagate | $117K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Intern - Software Development (Summer 2023) |
+| 423 | <a href="https://jobs.verizon.com/jobs/10895964-software-development-summer-2023-internship" rel="nofollow">Verizon</a> | $130K | Software Development Summer 2023 Internship (No Sponsorship) |
+| 424 | <a href="https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/United-States-Work-from-Home/Data-Science-Intern_R23849" rel="nofollow">Bose</a> | $138K | Data Science Intern |
+| 425 | <a href="https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Lake-Forest-California/Summer-2023-Intern---Software-Engineer_R-2022-19194" rel="nofollow">Alcon</a> | LOCK | Summer 2023 Intern - Software Engineer (No Sponsorship) |
+| 426 | <a href="https://23andme.com/careers/jobs/6426717002/" rel="nofollow">23andMe</a> | $217K | Engineering Intern |
+| 427 | NBA | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineering Intern, Data Scientist Intern |
+| 428 | SailPoint | $133K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineering Intern |
+| 429 | <a href="https://boards.greenhouse.io/braintechnologies/jobs/4677960004?gh_src=0c72714b4us" rel="nofollow">Brain Technologies</a> | NULL | NLP Intern |
+| 430 | Under Armour | LOCK | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Technology, Engineering, and Data Science Rookie (No Sponsorship) |
+| 431 | Chess.com | LOCK | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Backend Engineer, Frontend Engineer |
+| 432 | <a href="https://boards.greenhouse.io/coda/jobs/5096307002" rel="nofollow">Coda</a> | $210K | Software Engineer Summer Internship |
+| 433 | <a href="https://boards.greenhouse.io/xwing/jobs/5371525003" rel="nofollow">Xwing</a> | NULL | Software Engineer Intern, Mission Control Center, Software Team |
+| 434 | <a href="https://boards.greenhouse.io/sigmacomputing/jobs/5371312003" rel="nofollow">Sigma Computing</a> | $230K | Software Engineering Intern (Summer 2023) |
+| 435 | <a href="https://boards.greenhouse.io/bandwidth/jobs/4618588" rel="nofollow">Bandwidth</a> | $118K | Software Engineering Intern (Summer 2023) |
+| 436 | <a href="https://careers.ukg.com/careers/JobDetail/Software-Engineering-Internship-Spring-Summer-2023/41891" rel="nofollow">UKG</a> | $130K | Software Engineering Internship – Spring &amp; Summer 2023 (No Sponsorship) |
+| 437 | <a href="https://careers.mediatek.com/eREC/JobSearch/JobDetail/MUS120210917004?langKey=en-US" rel="nofollow">MediaTek</a> | $110K | AI Architecture and Algorithm Intern |
+| 438 | Citizens | $138K | Technology Summer Internship Program: Software Engineer (No Sponsorship) |
+| 439 | Philips | $132K | Software Engineering Intern (No Sponsorhip) |
+| 440 | <a href="https://boards.greenhouse.io/monad/jobs/4043504005" rel="nofollow">Monad Labs</a> | NULL | Low-Latency C++ Software Engineering Intern |
+| 441 | <a href="https://us-redhat.icims.com/jobs/97296/software-engineering-internship/job?hub=7" rel="nofollow">Red Hat</a> | $141K | Software Engineering Internship |
+| 442 | Black &amp; Veatch | NULL | Software Developer Intern |
+| 443 | <a href="https://boards.greenhouse.io/domo/jobs/4619314" rel="nofollow">Domo</a> | $161K | Software Engineer Intern |
+| 444 | <a href="https://www.lexmark.com/en_us/careers/job-description.143572.html" rel="nofollow">Lexmark</a> | NULL | Software Engineer Student - Summer 2023 |
+| 445 | <a href="https://jobs.lrs.com/job/details/25154" rel="nofollow">Levi, Ray &amp; Shoup</a> | NULL | Systems Engineer Intern (No Sponsorship) |
+| 446 | BreezeML | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer Intern |
+| 447 | <a href="https://boards.greenhouse.io/tusimpleinternship" rel="nofollow">Tu Simple</a> | NULL | Multiple Positions (see link) |
+| 448 | Schoolhouse | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineering Intern (Spring/Summer 2023) |
+| 449 | <a href="https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America---Remote/Software-Engineering-Intern_JR0021366" rel="nofollow">Yahoo</a> | $197K | Software Engineering Intern |
+| 450 | <a href="https://careers-daytonfreight.icims.com/jobs/7695/software-developer-intern/job?mode=job&amp;iis=SOURCE&amp;iisn=LinkedIn&amp;mobile=false&amp;width=1296&amp;height=500&amp;bga=true&amp;needsRedirect=false&amp;jan1offset=-480&amp;jun1offset=-420" rel="nofollow">Dayton Freight Lines, Inc</a> | NULL | Software Developer Intern |
+| 451 | <a href="https://boards.greenhouse.io/gusto/jobs/4645583" rel="nofollow">Gusto</a> | $214K | Software Engineering Intern |
+| 452 | Roche | $200K | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> 2023 Summer Intern - Sequencing Software Development |
+| 453 | <a href="https://amperecomputing.com/apply/?p=job%2FoZvJkfwh" rel="nofollow">Ampere Computing</a> | $250K | Solutions Engineering Intern |
+| 454 | <a href="https://careers.leidos.com/jobs/10999482-software-engineer-intern" rel="nofollow">Leidos</a> | $92K | Software Engineer Intern (U.S. Citizenship required) |
+| 455 | <a href="https://rei.jobs/careers/JobDetail/Software-Engineer-Intern-Mobile/26194" rel="nofollow">REI</a> | $143K | Software Engineer Intern -Mobile |
+| 456 | <a href="https://jobs.lever.co/nimblerx/b00faff0-37f7-4707-ac14-b86db266b9f9" rel="nofollow">NimbleRx</a> | LOCK | Software Engineer - (Intern) |
+| 457 | <a href="https://ww.wd1.myworkdayjobs.com/careers/job/New-York/XMLNAME-2023-Software-Engineering---Marketing-Internship_R220000002956" rel="nofollow">WW</a> | NULL | 2023 Software Engineering - Marketing Internship |
+| 458 | <a href="https://simplify.jobs/p/75bc6274-c19d-441b-8cf8-6f06e0799ad4/Software-Engineer-Intern" rel="nofollow">Simplify</a> | NULL | Software Engineer Intern |
+| 459 | <a href="https://www.playstation.com/en-us/corporate/playstation-careers/" rel="nofollow">PlayStation</a> | $184K | Software Engineering Intern (Scroll to bottom for internship applications) |
+| 460 | <a href="https://app.ripplematch.com/job/reddit/1da01017/?from_page=company_branded_page" rel="nofollow">Reddit</a> | $300K | Software Engineering Intern |
+| 461 | <a href="https://careers.jhuapl.edu/jobs?keywords=software%20intern&amp;sortBy=relevance&amp;page=1" rel="nofollow">Johns Hopkins APL</a> | NULL | Multiple 2023 SWE intern positions (US Citizenship required) |
+| 462 | <a href="https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Remote/Intern---Software-Engineer---Java_R15687" rel="nofollow">Nelnet</a> | $100K | Intern - Software Engineer - Java |
+| 463 | Bubble | LOCK | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineer Intern |
+| 464 | <a href="https://badgermeter.wd5.myworkdayjobs.com/en-US/US_CareerSite/job/Milwaukee-WI/Software-Engineering-Intern_2302-1" rel="nofollow">Badger Meter</a> | $85K | Software Engineering Intern |
+| 465 | <a href="https://jobs.smartrecruiters.com/Etsy2/743999862202479-software-engineering-intern" rel="nofollow">Etsy</a> | $232K | Software Engineering Intern |
+| 466 | <a href="https://www.mckinsey.com/careers/search-jobs?query=software%20engineer%20intern" rel="nofollow">McKinsey &amp; Company</a> | NULL | <a href="https://www.mckinsey.com/careers/search-jobs/jobs/dataengineeringintern-quantumblack-universitystudents-58600" rel="nofollow">Data Engineering Intern - QuantumBlack (Only Class of 2023-2024)</a>, <a href="https://www.mckinsey.com/careers/search-jobs/jobs/softwareengineeringintern-gcianalytics-59688" rel="nofollow">Software Engineering Intern - GCI Analytics</a> |
+| 467 | <a href="https://jobs.lever.co/color/93e1b4d8-7822-41bc-9d83-f8333cd5230f" rel="nofollow">Color</a> | $280K | Software Engineering Intern |
+| 468 | <a href="https://jobs.lever.co/tealium/01b097dc-a904-448d-8cfc-91a372e2156c" rel="nofollow">Tealium</a> | LOCK | Software Engineer, Intern |
+| 469 | <a href="https://careers.siriusxm.com/careers/jobs/13803?lang=en-us" rel="nofollow">Pandora</a> | $189K | Summer Intern, Client API |
+| 470 | <a href="https://boards.greenhouse.io/samsungresearchamericainternship/" rel="nofollow">Samsung</a> | $193K | <a href="https://boards.greenhouse.io/samsungresearchamericainternship/jobs/5922339002" rel="nofollow">ML Think Tank Intern</a>, <a href="https://boards.greenhouse.io/samsungresearchamericainternship/jobs/5868447002" rel="nofollow">SWE Think Tank Intern</a> |
+| 471 | <a href="https://jobs.lever.co/shieldai" rel="nofollow">Shield AI</a> | $112K | <a href="https://jobs.lever.co/shieldai/f22a791d-d279-4cca-999d-c78aca6c42b0" rel="nofollow">Systems engineering</a>, <a href="https://jobs.lever.co/shieldai/5a66481a-42c5-447b-8bea-afb9732788c8" rel="nofollow">Android intern</a>, <a href="https://jobs.lever.co/shieldai/b06c8750-7bc9-443b-be21-5213daef44ff" rel="nofollow">Infrastructure Foundations Engineer</a> &amp; <a href="https://jobs.lever.co/shieldai" rel="nofollow">other positions</a> (US citizenship required) |
+| 472 | <a href="https://www.bmwgroup.jobs/us/en/opportunities/student.html" rel="nofollow">BMW Group</a> | $100K | <a href="https://www.bmwgroup.jobs/us/en/jobfinder/job-description.220003AL.html" rel="nofollow">Full stack intern</a>, <a href="https://www.bmwgroup.jobs/us/en/jobfinder/job-description.220003WJ.html" rel="nofollow">RF Systems Engineering</a>, <a href="https://www.bmwgroup.jobs/us/en/jobfinder/job-description.220003UV.html" rel="nofollow">UX Engineer</a>, additional on website |
+| 473 | <a href="https://www.bp.com/en/global/corporate/careers/jobs-at-bp/Data-Engineering-Intern-139997BR.html" rel="nofollow">BP</a> | $110K | Data Engineering Intern (No Sponsorship) |
+| 474 | <a href="https://careers.slb.com/fojoblist/it-intern" rel="nofollow">Schlumberger</a> | $132K | Information Technology Intern |
+| 475 | <a href="https://jobs.baesystems.com/global/en/leap" rel="nofollow">BAE Systems</a> | $97K | <a href="https://jobs.baesystems.com/global/en/job/86199BR/Software-Engineering-Intern" rel="nofollow">Software Engineering Intern</a>, <a href="https://jobs.baesystems.com/global/en/job/86198BR/Systems-Engineering-Intern" rel="nofollow">Systems Engineering intern</a>, <a href="https://jobs.baesystems.com/global/en/job/86078BR/Virtual-Reality-Engineering-Intern-Summer-2023" rel="nofollow">Virtual Reality intern</a>, additional on website |
+| 476 | Snap Inc. | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> 2023 Software Engineer Intern |
+| 477 | <a href="https://www.flyzipline.com/careers" rel="nofollow">Zipline</a> | $257K | <a href="https://www.flyzipline.com/job?gh_jid=5387055003" rel="nofollow">Software Engineering Intern - Hardware Test</a>, <a href="https://www.flyzipline.com/job?gh_jid=5371535003" rel="nofollow">SWE - Apps</a>, <a href="https://www.flyzipline.com/job?gh_jid=5371553003" rel="nofollow">SWE - Flight Routes</a>, <a href="https://www.flyzipline.com/job?gh_jid=5378373003" rel="nofollow">SWE - Perception</a>, <a href="https://www.flyzipline.com/job?gh_jid=5344068003" rel="nofollow">Machine Learning Software Developer Intern - Meteorology</a> |
+| 478 | <a href="https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/Software-Engineer-Intern---Americas-Campus--Summer-2023-_R18012" rel="nofollow">FactSet</a> | $123K | Software Engineer Intern (No Sponsorship) |
+| 479 | <a href="https://ptc.eightfold.ai/careers?query=Software%20Intern&amp;pid=137453256339&amp;domain=ptc.com&amp;triggerGoButton=false" rel="nofollow">PTC</a> | $126K | Software Engineer Intern, Software Developer Intern |
+| 480 | <a href="https://seekout.com/careers-list?gh_jid=5371260003" rel="nofollow">SeekOut</a> | NULL | In-Person Software Engineer - Internship |
+| 481 | <a href="https://boards.greenhouse.io/nuna/jobs/4612944" rel="nofollow">Nuna Healthcare</a> | NULL | Software Engineer Intern |
+| 482 | <a href="https://jobs.microfocus.com/global/en/search-results?keywords=intern" rel="nofollow">Vertica</a> | LOCK | <a href="https://jobs.microfocus.com/global/en/job/7027957/Systems-Software-Engineer-Intern-at-Vertica" rel="nofollow">Systems Software</a>, <a href="https://jobs.microfocus.com/global/en/job/7027820/Quality-Assurance-Test-Intern-for-Summer-2023-Vertica" rel="nofollow">Quality Assurance</a> |
+| 483 | <a href="https://mark43.com/careers/north-america/#job-openings" rel="nofollow">Mark43</a> | $132K | Engineering Intern, <a href="https://mark43.com/list-job/?gh_jid=4653495" rel="nofollow">US remote</a> or <a href="https://mark43.com/list-job/?gh_jid=4657411" rel="nofollow">Toronto</a> |
+| 484 | <a href="https://jobs.newyorklife.com/job/New-York-2023-Technology-Summer-Internship-Program-NY-10001/919209100/" rel="nofollow">New York Life Insurance</a> | $160K | 2023 Technology Summer Internship Program |
+| 485 | <a href="https://jobs.lever.co/cambly/5f8d0043-a2cb-4e16-b994-7e69a52d84f3" rel="nofollow">Cambly</a> | LOCK | Software Engineering Internship |
+| 486 | <a href="https://jobs.lever.co/fanatics" rel="nofollow">Fanatics</a> | $162K | Summer 2023 Internship for <a href="https://jobs.lever.co/fanatics/573afdf6-8a23-48a0-8682-b721277f1410" rel="nofollow">Software</a>, <a href="https://jobs.lever.co/fanatics/902a3c59-d4ad-46c7-b6ba-277b6ab1bada" rel="nofollow">Infrastructure</a>, <a href="https://jobs.lever.co/fanatics/2098bd04-743c-4715-b95a-02bed755c69d" rel="nofollow">Security</a>, and <a href="https://jobs.lever.co/fanatics/94ecad65-b4fc-48b8-ba1b-b3d7c2f8a9c3" rel="nofollow">Product Management</a> |
+| 487 | <a href="https://careers.chime.com/c/engineering-jobs" rel="nofollow">Chime</a> | $365K | <a href="https://careers.chime.com/job/6451721002/Engineering-Services-Intern" rel="nofollow">Engineering Services Intern</a>, <a href="https://careers.chime.com/job/6450390002/Risk-Support-Engineering-Intern" rel="nofollow">Risk &amp; Support Engineering Intern</a>, <a href="https://careers.chime.com/job/6451725002/Engineering-Product-Management-Intern" rel="nofollow">Engineering Product Management Intern</a> |
+| 488 | <a href="https://jobs.lever.co/lucidmotors/" rel="nofollow">Lucid Motors</a> | $185K | <a href="https://jobs.lever.co/lucidmotors/6436cc04-dff3-45a6-805e-615feb4865bc" rel="nofollow">Cloud microservices intern</a>, <a href="https://jobs.lever.co/lucidmotors/b292a787-6419-465f-8ecf-d4f00f69e876" rel="nofollow">ADAS perception algortihm</a>, <a href="https://jobs.lever.co/lucidmotors/b23d42ec-5cf6-46bc-aff0-6c0f705fad5a" rel="nofollow">Android Applications engineer</a> (more on website) |
+| 489 | <a href="https://careers.squareup.com/us/en/jobs?type%5B%5D=Intern" rel="nofollow">Square</a> | $290K | <a href="https://www.smartrecruiters.com/Square/743999864616698" rel="nofollow">Software Engineer Intern</a> <br> <a href="https://www.smartrecruiters.com/Square/743999863417151" rel="nofollow">Software Engineer Intern (Toronto)</a> <br> <a href="https://www.smartrecruiters.com/Square/743999864594888" rel="nofollow">Mobile Developer Intern</a> <br> <a href="https://www.smartrecruiters.com/Square/743999863416691" rel="nofollow">Mobile Developer Intern (Toronto)</a> |
+| 490 | <a href="https://careers.siriusxm.com/earlycareer/jobs?keywords=intern&amp;sortBy=relevance&amp;page=1" rel="nofollow">SiriusXM</a> | $198K | Summer internship for <a href="https://careers.siriusxm.com/earlycareer/jobs/13805?lang=en-us" rel="nofollow">Mobile</a>, <a href="https://careers.siriusxm.com/earlycareer/jobs/13807?lang=en-us" rel="nofollow">Web</a>, <a href="https://careers.siriusxm.com/earlycareer/jobs/13801?lang=en-us" rel="nofollow">Backend</a>, etc. Spring and part-time internship avaliable on website |
+| 491 | <a href="https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/Intern---Software-Development_R0031490" rel="nofollow">Gilead Sciences</a> | LOCK | Intern - Software Development (No Sponsorship) |
+| 492 | <a href="https://boards.greenhouse.io/productiv/jobs/5377780003" rel="nofollow">Productiv</a> | $138K | Software Engineer Intern |
+| 493 | <a href="https://careers.juniper.net/" rel="nofollow">Juniper Networks</a> | $180K | Software Enginnering Intern, <a href="https://careers.juniper.net/#/jobdescription?jid=1006711" rel="nofollow">Westford, MA</a> or <a href="https://careers.juniper.net/#/jobdescription?jid=1005724" rel="nofollow">Sunnyvale, CA</a> |
+| 494 | Uniswap Labs | NULL | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Software Engineering Intern |
+| 495 | <a href="https://micron.eightfold.ai/careers/search?query=Internship" rel="nofollow">Micron Technology</a> | $129K | <a href="https://micron.eightfold.ai/careers/job?domain=micron.com&amp;query=Internship&amp;pid=13356989&amp;triggerGoButton=false" rel="nofollow">High Performance Memory Quality Engineer</a>, <a href="https://micron.eightfold.ai/careers/job/13315166?domain=micron.com&amp;utm_source=linkedin&amp;src=JB-12600" rel="nofollow">AI/ML Algorithms</a> |
+| 496 | <a href="https://michaels.wd5.myworkdayjobs.com/en-US/External/job/Michaels-2023-Summer-Internship---Technology_R00192212" rel="nofollow">Michaels</a> | NULL | 2023 Technology Summer Internship Program |
+| 497 | <a href="https://xcomlabs.bamboohr.com/jobs/" rel="nofollow">XCOM Labs</a> | NULL | Summer internship for <a href="https://xcomlabs.bamboohr.com/jobs/view.php?id=298&amp;source=bamboohr" rel="nofollow">software</a>, <a href="https://xcomlabs.bamboohr.com/jobs/view.php?id=300&amp;source=bamboohr" rel="nofollow">wireless</a>, <a href="https://xcomlabs.bamboohr.com/jobs/view.php?id=302&amp;source=bamboohr" rel="nofollow">VR</a>, <a href="https://xcomlabs.bamboohr.com/jobs/view.php?id=301&amp;source=bamboohr" rel="nofollow">XR</a>, etc. |
+| 498 | <a href="https://www.nerdwallet.com/careers/job/3421434" rel="nofollow">NerdWallet</a> | $210K | General internship application for Web, Data, Mobile, etc. |
+| 499 | <a href="https://careers.spglobal.com/jobs/278444" rel="nofollow">S&amp;P Global</a> | NULL | Software Engineer - DTS 2023 Summer Intern |
+| 500 | <a href="https://careers.moodys.com/job/16818557/2023-engineering-technology-summer-internship-us-charlotte-nc" rel="nofollow">Moody's</a> | $130K | 2023 Engineering  &amp; Technology Summer Internship |
+| 501 | <a href="https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/Austin-TX-USA/XMLNAME-2023-SIP-Technology-Analyst--Software-Engineering_R101897?ref=levels.fyi&amp;workerSubType=6e192a3f175201c5a610087a5209cf10" rel="nofollow">Pimco</a> | $170K | 2023 Summer Intern - Software Engineer, US |
+| 502 | Microsoft | $212K | <a href="https://careers.microsoft.com/us/en/job/1388845" rel="nofollow">Software Engineering Intern</a>, <a href="https://careers.microsoft.com/students/us/en/job/1371270/Data-Applied-Sciences-Intern-Opportunities-for-University-Students" rel="nofollow">Data &amp; Applied Sciences Intern</a>, <a href="https://careers.microsoft.com/students/us/en/job/1388848/Explore-Microsoft-Intern-Opportunities-for-University-Students" rel="nofollow">Explore Intern</a> |
+| 503 | <a href="https://jobs.boeing.com/job/hood-river/intern-software-engineering/185/37781184528" rel="nofollow">Boeing</a> | $118K | <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Intern - Software Engineering |
+| 504 | <a href="https://jobs.lever.co/prelim/dcc63d39-57f4-412e-9581-f5a93f2cf5b7" rel="nofollow">Prelim</a> | NULL | Software Engineer - Intern |
+| 505 | <a href="https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1556?utm_medium=jobshare" rel="nofollow">midmark</a> | LOCK | Software Engineer Co-Op |
+| 506 | <a href="https://jobs.lever.co/perpay/9901cb87-958d-4d03-88c3-fae58cf84dbb" rel="nofollow">perpay</a> | LOCK | <strong><g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji> Closed <g-emoji class="g-emoji" alias="lock" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f512.png">🔒</g-emoji></strong> Engineering Intern (Software) |
+| 507 | <a href="https://aluperf.referrals.selectminds.com/jobs/search/36227665" rel="nofollow">Nokia</a> | $153K | <a href="https://aluperf.referrals.selectminds.com/jobs/machine-learning-and-ai-intern-90993" rel="nofollow">ML &amp; AI Intern</a> |
+| 508 | <a href="https://www.braze.com/" rel="nofollow">Braze</a> | $274K | <a href="https://boards.greenhouse.io/embed/job_app?token=4472663&amp;gh_src=b73a210e1" rel="nofollow">Software Engineering Intern</a> |
+| 509 | <a href="https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Bloomington-MN/Software-Engineer-Intern---The-Toro-Company_JR5735" rel="nofollow">The Toro Company</a> | LOCK | Software Engineer Intern |
+| 510 | <a href="https://jobs.lever.co/everlaw/8be74382-4441-4524-b4be-d8a8df64a906" rel="nofollow">Everlaw</a> | LOCK | Software Engineer Internship |
+| 511 | <a href="https://ats.comparably.com/api/v1/gh/integraladscience/jobs/4637063?gh_jid=4637063&amp;gh_src=6e382d8d1us" rel="nofollow">Integral Ad Science</a> | $108K | General internship application for Engineering, Data, Product, etc. |
+| 512 | Atlassian | $149K | <a href="https://jobs.lever.co/atlassian/8598139f-e53c-4353-ad2a-3f9d32e969c2" rel="nofollow">Software Engineer Intern</a>, <a href="https://www.atlassian.com/company/careers/detail/db725d3d-e4c1-4dea-953c-ee1681cde1dd" rel="nofollow">ML Intern</a> (No Sponsorship) |
+| 513 | <a href="https://jobs.lever.co/woven-planet-2/71161f1b-b7fb-4a56-8be1-68ac1e60100e" rel="nofollow">Woven Planet</a> | NULL | Software Engineer Intern |
+| 514 | <a href="https://jobs.lever.co/atomic/92ea05f7-450e-452d-92ab-291bad609004" rel="nofollow">Atomic</a> | NULL | Summer 2023 Software Engineering Intern |
+| 515 | <a href="https://jobs.jobvite.com/liferay/job/oyTSkfwn" rel="nofollow">Liferay, Inc.</a> | NULL | Software Engineering Intern (Consulting) - Summer 2023 |
+| 516 | <a href="https://careers-gmfinancial.icims.com/jobs/43192/intern--software-development-engineer/job?mobile=false&amp;width=1290&amp;height=500&amp;bga=true&amp;needsRedirect=false&amp;jan1offset=-300&amp;jun1offset=-240" rel="nofollow">GM Financial</a> | NULL | Intern - Software Development Engineer |
+| 517 | New Relic | $188K | Software Engineer Intern, <a href="https://newrelic.careers/careers/JobDetail/Software-Engineer-Intern-CodeStream/3053" rel="nofollow">CodeStream</a>, <a href="https://newrelic.careers/careers/JobDetail/Software-Engineer-Intern-Telemetry-Data-Platform/3048" rel="nofollow">Telemetry Data Platform</a> (No Sponsorship) |
+| 518 | <a href="https://energysage.hrmdirect.com/employment/job-opening.php?req=2211289&amp;&amp;&amp;jbsrc=1023" rel="nofollow">EnergySage Inc.</a> | NULL | Software Engineering Intern (2023) |
+| 519 | <a href="https://sambanova.ai/sambanova-available-positions/?gh_jid=4589098004" rel="nofollow">SambaNova Systems</a> | $181K | Intern - Software Engineer |
+| 520 | <a href="https://boards.greenhouse.io/zanbato/jobs/4485669" rel="nofollow">Zanbato</a> | LOCK | Software Engineering Intern (only accepting bay area resident) |
+| 521 | <a href="https://www.sandboxaq.com/careers-list?gh_jid=4601309004" rel="nofollow">SandboxAQ</a> | NULL | Internship - Prototyping Engineer |
+| 522 | <a href="https://www.pepsicojobs.com/main/jobs/143600?lang=en-us&amp;previousLocale=en-US" rel="nofollow">PepsiCo</a> | $200K | Digital Transformation Intern (no sponsorship) |

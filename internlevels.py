@@ -28,12 +28,13 @@ stringPage = page.read().decode("utf-8")
 
 md = open("pittCSList.md", "w")
 md.write("## The List\n")
-md.write("| Index | Name | Salary |\n")
-md.write("| --- | --- | --- |\n")
+md.write("| Index | Name | Salary | Notes |\n")
+md.write("| --- | --- | --- | --- |\n")
+
 mdOrder = open("orderedList.md", "w")
 mdOrder.write("## The List, Ordered\n")
-mdOrder.write("| Index | Name | Salary |\n")
-mdOrder.write("| --- | --- | --- |\n")
+mdOrder.write("| Index | Name | Salary | Notes |\n")
+mdOrder.write("| --- | --- | --- | --- |\n")
 
 
 
@@ -45,17 +46,27 @@ while "<tr>" in stringPage[pos:]:
 	pos = stringPage.index("<td>",pos)+len("<td>")
 	newPos = stringPage.index("</td>",pos)
 	name = stringPage[pos:newPos]
-	if "</a>" in name:
-		name = name[name.index(">")+1:name.index("</a>")]
+
+	pos = stringPage.index("<td>",pos)+len("<td>")
+	pos = stringPage.index("<td>",pos)+len("<td>")
+	newPos = stringPage.index("</td>",pos)	
+	notes = stringPage[pos:newPos]
+	tempName = name
+	if "</a>" in tempName:
+		tempName = name[name.index(">")+1:name.index("</a>")]
 	# print(name, findSalary(name))
-	salary = findSalary(name)
-	lst.append((salary,name))
-	md.write("| " + str(count) + " | " + name + " | " + salary + " |\n")
+	salary = findSalary(tempName)
+	
+	lst.append((salary,name,notes))
+	md.write("| " + str(count) + " | " + name + " | " + salary +  " | " + notes + " |\n")
 	count += 1
 lst.sort(key=lambda company: int(company[0][1:-1]) if company[0] not in {"NULL","LOCK"} else -1,reverse=True)
 count = 1
-for salary,name in lst:
-	mdOrder.write("| " + str(count) + " | " + name + " | " + salary + " |\n")
+for salary,name,notes in lst:
+	mdOrder.write("| " + str(count) + " | " + name + " | " + salary +  " | " + notes + " |\n")
 	count += 1
+
+
+	 
 md.close()
 mdOrder.close()
