@@ -1,0 +1,237 @@
+Akuna Capital,213,82.0
+Apple,240,58.0
+Bridgewater Associates,250,81.25
+Capital One,140,69.23
+Citi,105,50.0
+Credit Suisse,126,48.08
+Five Rings,198,120.0
+Goldman Sachs,130,55.0
+KPMG,100,40.0
+Morgan Stanley,71,43.27
+Optiver,253,137.5
+John Deere,129,27.73
+Amazon,227,69.7
+BlackRock,125,55.28
+Two Sigma,370,72.5
+Palantir,211,56.54
+Mastercard,126,29.0
+Citadel,380,120.0
+Ocient,130,28.85
+Blackstone,190,49.48
+Northrop Grumman,102,27.0
+Oracle,170,51.0
+Lockheed Martin,91,29.65
+Freddie Mac,97,30.0
+Jane Street,425,120.2
+Asana,234,65.0
+Seven Eight Capital,151,72.12
+ServiceNow,187,53.55
+Virtu Financial,220,87.5
+Verkada,230,50.0
+PNC,94,25.0
+Arrowstreet Capital,400,144.23
+General Motors,107,28.85
+Roblox,243,62.0
+Intuit,203,46.0
+Uber,283,52.0
+Uber,283,52.0
+Hudson River Trading,629,128.0
+Nordstrom,150,46.45
+DRW,284,84.13
+Salesforce,250,54.0
+Instabase,213,53.08
+Cisco,195,48.7
+Vanguard,88,42.0
+Nvidia,272,74.25
+KLA,155,25.0
+Qualtrics,164,42.07
+Duolingo,195,52.0
+Audible,171,57.99
+Ericsson,72,23.0
+Twitch,226,60.65
+Accenture,122,32.0
+Quantcast,175,68.0
+Belvedere Trading,180,72.12
+Jump Trading,368,100.0
+Databricks,223,52.0
+American Express,122,54.81
+Klaviyo,185,50.0
+IBM,141,49.72
+Figma,299,49.04
+Flatiron Health,186,48.0
+Redfin,176,49.5
+SeatGeek,175,55.0
+Thomson Reuters,113,25.0
+ServiceNow,187,53.55
+Convoy,174,60.0
+Lyft,325,58.0
+Citrix,170,34.0
+Target,97,34.0
+Viasat,122,39.0
+Paycom,97,27.0
+Datadog,221,52.08
+NetApp,185,39.0
+Benchling,195,60.0
+Scale AI,284,60.0
+PathAI,145,51.92
+Epic Games,111,45.67
+Mathworks,135,48.0
+GoDaddy,177,50.0
+Ridgeline,120,41.0
+State Farm,99,28.0
+BNY Mellon,105,48.5
+Workiva,142,40.0
+Intel,203,45.0
+Rivian,193,51.0
+Zillow,243,58.65
+Arrowstreet Capital,400,144.23
+Deloitte,101,32.0
+Stripe,417,59.38
+Hubspot,185,50.0
+Visa,150,34.0
+Chewy,201,51.0
+Riot Games,201,58.41
+CGI,90,17.0
+Nuro,299,68.75
+Relativity Space,165,32.0
+Dropbox,312,49.04
+MongoDB,226,41.0
+The Washington Post,135,30.0
+Slack,313,54.0
+SpaceX,173,28.5
+Samsara,262,51.0
+Brex,310,55.0
+Garmin,98,28.0
+Plaid,315,51.92
+Pinterest,260,57.69
+Nike,165,45.0
+The Home Depot,123,27.0
+Adobe,203,51.0
+Arm,116,31.0
+Nomura,160,50.48
+Workday,178,21.01
+Bloomberg,188,60.0
+Okta,253,58.0
+Splunk,200,60.0
+Lacework,193,55.0
+Ansys,130,27.0
+Silicon Labs,125,38.0
+Yext,180,50.0
+Pure Storage,215,53.12
+WillowTree,115,29.0
+Grainger,141,36.0
+Confluent,251,55.0
+Cruise,388,53.5
+Amadeus,48,53.0
+Gap,135,48.0
+DoorDash,270,57.0
+Merck,100,29.48
+Synopsys,233,24.59
+BCG,127,62.5
+Roku,340,47.0
+Google,220,63.46
+Bank of America,125,45.5
+Pearson,117,35.0
+Honeywell,90,30.0
+Flexport,254,40.0
+Schonfeld,195,84.13
+Tanium,295,55.0
+UiPath,215,48.0
+Qualcomm,240,49.0
+Akamai,180,40.0
+Amplitude,285,40.0
+Appian,151,44.0
+DraftKings,156,55.0
+Nutanix,230,53.0
+Paylocity,165,30.0
+Snowflake,350,53.0
+Trimble,132,30.0
+Autodesk,206,52.0
+Nextdoor,200,46.88
+Ancestry,177,47.0
+Raytheon,88,31.36
+Lumen,80,35.0
+Remitly,263,47.02
+Ramp,380,60.0
+Whatnot,195,57.69
+Disney,248,25.0
+Airbnb,400,45.0
+Netflix,500,80.77
+Alteryx,171,40.0
+TuSimple,168,53.0
+Squarespace,220,51.0
+CarMax,124,35.0
+Argo AI,209,43.0
+Walmart,139,37.0
+Skydio,200,41.0
+Activision,136,34.0
+Clever,161,44.0
+State Street,140,25.0
+Northwestern Mutual,108,25.0
+Teradata,132,50.0
+Khan Academy,145,46.15
+SoFi,198,53.0
+Mailchimp,161,32.0
+Oscar Health,219,57.0
+Liberty Mutual,98,30.0
+Tesla,210,40.63
+Omnicell,133,40.0
+Credit Karma,268,55.15
+Waymo,230,48.08
+Robinhood,303,48.0
+Addepar,205,60.0
+Aurora,285,57.0
+Cargill,50,22.0
+Ibotta,135,40.0
+Johnson Controls,115,22.0
+Zendesk,192,43.0
+Wayfair,220,48.0
+Comcast,137,40.0
+Equinix,184,62.5
+Gemini,213,40.0
+General Dynamics Mission Systems,103,32.0
+Cigna,130,25.0
+Seagate,117,20.0
+Verizon,126,23.0
+SailPoint,133,50.0
+Sigma Computing,230,50.0
+Bandwidth,120,32.0
+Philips,143,45.0
+Red Hat,128,44.4
+Gusto,255,63.47
+Leidos,90,28.0
+PlayStation,203,43.75
+Reddit,310,50.0
+Etsy,226,60.0
+Samsung,188,49.0
+Shield AI,110,50.0
+BMW Group,96,20.59
+BP,93,35.48
+Schlumberger,136,32.64
+BAE Systems,92,28.0
+PTC,126,38.0
+Mark43,130,45.0
+New York Life Insurance,160,45.0
+Chime,300,58.75
+Lucid Motors,190,30.0
+SiriusXM,185,43.0
+Productiv,138,42.5
+Juniper Networks,185,40.0
+Micron Technology,136,38.53
+NerdWallet,215,40.38
+Pimco,145,52.88
+Microsoft,200,49.21
+Boeing,105,28.0
+Nokia,151,23.0
+Braze,310,57.0
+Atlassian,212,60.0
+New Relic,164,50.0
+PepsiCo,150,29.0
+Schneider Electric,25,18.81
+Affirm,290,55.0
+Rubrik,236,55.0
+Intuitive,220,50.0
+Zoom,185,56.25
+Rippling,409,68.0
+Pegasystems,150,27.0
+Rockwell Automation,113,23.0
