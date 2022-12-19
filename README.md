@@ -4,8 +4,8 @@
 [image]:salaryvisualizer.png
 [link]:salaryvisualizer.html
 
-[![Salary Visualizer][image]][link]
-[*Go to Visualizer*][link]
+![Salary Visualizer][image]
+*Run [salaryvisualizer.py](salaryvisualizer.py) to get interactive model*
 
 
 Python script that takes Pitt CS Internship Links and prints out the median salary as stated by Levels.fyi, if available.
